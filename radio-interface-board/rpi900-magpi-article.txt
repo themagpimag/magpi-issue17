@@ -1,0 +1,21 @@
+Long-Range Wireless with the Raspberry Pi and RPi900
+
+We all know the benefits of Raspberry Pi for hardware projects: easy to program, low power, and cheap almost to the point of disposable. Add a wifi dongle and you can put one anywhere around the house. But how about further afield? I wanted to put a Raspberry Pi on a local hilltop and still be able to log in. This would be great for weather stations, webcams and a host of other remote telemetry projects.
+
+A good solution for this sort of long-range communication is to use a "radio module", a plug-in circuit which communicates wirelessly with others in its network. These modules typically use the 900 MHz or 2.4 GHz radio bands, which are available for license-free use in many countries.
+
+I chose the DNT900 module from RFM. At $70 it's very affordable, and can work at extremely long range--up to 40 miles line-of-sight, RFM claims. (There's also a compatible 2.4 GHz module for use in Europe, where 900 MHz is restricted.) The radios can be connected in pairs, or in a more complex network. You can also operate a radio as a repeater to extend range. The radios even include analog and digital I/O for controlling things and making simple measurements.
+
+I designed a prototype circuit board which holds the DNT900 radio module and connects to the Raspberry Pi's GPIO header. The serial port (UART) pins allows the Raspberry Pi to exchange data with with radio. I included a 5V power supply, sufficient for both the Raspberry Pi and DNT900 radio and able to be supplied directly from a 12 V solar power system.
+
+One feature I wanted was for the remote radio to be able to control power to the remote Raspberry Pi. This would be very useful for turning the Raspberry Pi off when not needed, saving battery power. Later, I also added a real-time clock, a useful feature which allows the Raspberry Pi to keep time without a network connection.
+
+Once I had a working prototype, my attention turned to software. With one Raspberry Pi acting as a base station, how would I configure the radio and exchange data with the remote Raspberry Pi? The DNT900 radio has a special command protocol for doing just this. You can manually construct these commands and sent them to the Raspberry Pi serial port, but this quickly becomes tedious. I decided to do it the right way: create a linux driver.
+
+In this case the driver turned out to be a "line discipline". This is an obscure bit of kernel code which acts as a "translator" for the serial port. Basically, it implements the DNT900 command protocol so you don't have to. Writing the code was a big project in its own right, and the end results were great. When the driver is loaded, all the configuration registers for the radio are presented as attribute files in the sysfs file system, so changing them is easy. For every radio which is connected, a "virtual TTY" is presented, meaning that sending data to a remote Raspberry Pi is as simple as writing to its corresponding TTY device file.
+
+What's nice about the TTY interface is that I can use it to set up a full internet connection for the remote Raspberry Pi (albeit a slow one). For this I use Point-to-Point Protocol, the same as for dialup internet. Just a few extra steps to set this up, and I can SSH into the remote Raspberry Pi using only the radio link. This is great for maintenance--I can reconfigure software on the Raspberry Pi without needing physical access to it. Handy for a remote location!
+
+For my base station, I boxed up one of my boards and a Raspberry Pi and bolted in to my roof, along with a solar panel, battery and antenna. I have yet to test the full range of the radio, but I can certainly reach the local hill!
+
+Working on this project is great fun. I've documented my design at http://rpi900.com. The site includes technical tutorials on setting everything up as well as tips on choosing an enclosure, antenna and solar power system for your remote Raspberry Pi. RPi900 boards are also available to purchase from the site.
