@@ -1,0 +1,66 @@
+What is the BrickPi?
+
+The BrickPi is an interface between the Raspberry Pi and LEGO Mindstorms sensors and motors, a portable power source for the Raspberry Pi, and a case that allows you to attach LEGO motors, beams, sensors, and other parts.  
+The BrickPi can be used to control up to four LEGO NXT motors and read the motor encoder values.  The motor encoder values measure how  far the motor has turned.  The BrickPi also has four sensor ports.  These ports can read digital NXT sensors or analog sensors.  There is also a fifth port that can be used with digital sensors.  The BrickPi has a battery power unit that can provide power for the BrickPi, sensors, motors and Raspberry Pi. The power unit on the BrickPi can be used with to 9 to 12 Volts battery packs. The BrickPi system also includes an enclosure that LEGO Technic parts, sensors, and motors can be attached to.  The enclosure houses the Raspberry Pi and the BrickPi.  It is made of acrylic and comes with evenly-spaced holes along the top and bottom that are big enough for Technic LEGO pegs.  The enclosure leaves the sides of the Raspberry Pi clear, allowing access to the USB ports.
+
+Getting started
+
+Follow the setup guide at
+http://www.dexterindustries.com/BrickPi/getting-started/
+to assemble the enclosure and for references to SD installation or software configuration.  The BrickPi can be used with the BrickPi Raspbian image or by following the setup guide instructions to configure the standard Raspbian image.  The BrickPi Raspbian image contains all of the configuration needed to get up and running   quickly as possible.
+
+The Raspberry Pi uses quite a lot of battery power.  Therefore, it is a good idea to plug the Raspberry Pi into a mains adapter when it is being programmed and use 6 AA batteries for final remote robotics.  The power consumption of the Raspberry Pi, BrickPi and associated motors or sensors varies according to the application.  This means that the battery pack could last for hours or for a matter of 20 minutes, depending on what is connected.  The battery life can be extended by using a model A Raspberry Pi.
+Working with the BrickPi
+
+The BrickPi can be programmed using a keyboard, mouse and monitor plugged into the Raspberry Pi.  However, sometimes a spare monitor is not available or the robot might be roaming around.  Therefore, the BrickPi Raspbian image contains a VNC server and automatic configuration, ssh and a few other goodies.  There is a short tutorial on connecting remotely to the Raspberry Pi using another computer at
+http://..
+
+Programming
+
+All the software for the BrickPi is open source, allowing it to be improved by the community.  The physical design of the BrickPi board is also available.   There are details of the firmware and software too.  The hardware and the software are available on Github at:
+http://...
+
+There are drivers for C, Python, and MITs graphic language Scratch.  The beauty of the hardware architecture and the Raspberry Pi is that any language that can run on the Raspberry Pi can be used to control a students robot.  
+
+Python interface - motor control
+The python example above runs one motor on Port A forward for 3 seconds, and then backwards for 3 seconds.  At its simplest, running a motor requires two lines of code:  one to setup the motor, and one to set the motor power.  
+
+Python interface - ultrasonic sensor
+
+The LEGO Ultrasonic sensor can be attached to any of the four senor ports and provides the distance an object is from the robot.
+The program above sets up the Ultrasonic Sensor on Port 1, and then reads the value from the sensor in a loop, printing the measured distance on the screen.  Again, in its simplest form, running the ultrasonic sensor requires all of two lines of code: one initialises the sensor, and one refreshes the value the sensor is reading.
+
+Scratch interface - ???
+
+Cool projects
+
+After testing out some of the examples using  LEGO sensors, there are some really creative projects possibilities that use the horsepower of the Raspberry Pi.  There are a few examples up already on Github and more will follow.  So far, there are four example projects.  These projects are provided with building instructions and Python code.
+
+WIFI controlled car
+
+This example is a car controlled with WIFI.  In this example, the robot is controlled by logging into the Raspberry Pi through SSH.  The car is controlled using  the numeric keypad on the right-hand side  of a full keyboard: 8 for forward, 4 for left, etc..  In the example, the Ultrasonic Sensor is used to detect objects and obstructions, and stop before crashing into them.
+
+Robotic arm
+This example uses the BrickPi as a robotic arm for grabbing and moving materials.  In this example, a keyboard in the Raspberry Pi is used to control the movement of the arm.
+
+Shooter Turret
+This example uses the BrickPi as a turret ball shooter.  The turret can rotate and is controlled by the mouse.  Moving the mouse left and right changes the angle of the shooter, and the firing mechanism is controlled with a press of the mouse button.
+
+Browser controlled tank
+
+This example uses the BrickPi as a tank.  A picture of the completed model is on the cover of this Issue.  The example sets up a webserver over wifi on the Raspberry Pi.  The Raspberry Pi serves up a web page that has controls for moving the tank around and controlling the tank motion. 
+
+Buying motors and sensors
+
+The BrickPi provides low cost access to Robotics with LEGO Mindstroms.  It is not necessary to buy a full LEGO Mindstroms kit.  Instead, LEGO sensors and motors can be bought from the LEGO pick-a-brick web site:
+http://
+and used with any technical LEGO set.  The LEGO pick-a-brick web site does not sell the connecting wires in all countries.  The connecting wires are available at:
+http://
+As well as the LEGO sensors, there are several other sensors available at:
+http://dexter...
+
+Getting involved
+
+The BrickPi is a great educational tool for young and old.  The source code and hardware is open to allow the community to improve them.  Try building your own project.  There are BrickPi forums 
+http://...
+for communicating ideas and sharing projects with others.  It would be great to see some more cool project ideas and hear how the BrickPi is being used.
