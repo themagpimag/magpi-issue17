@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <SCRIBUSUTF8NEW Version="1.4.2">
-    <DOCUMENT ANZPAGES="4" PAGEWIDTH="595.275590551181" PAGEHEIGHT="841.889763779528" BORDERLEFT="28.3464566929134" BORDERRIGHT="28.3464566929134" BORDERTOP="28.3464566929134" BORDERBOTTOM="28.3464566929134" PRESET="0" BleedTop="8.50393700787402" BleedLeft="8.50393700787402" BleedRight="8.50393700787402" BleedBottom="8.50393700787402" ORIENTATION="0" PAGESIZE="A4" FIRSTNUM="1" BOOK="0" AUTOSPALTEN="1" ABSTSPALTEN="3.881" UNITS="1" DFONT="Bitstream Charter Bold" DSIZE="12" DCOL="1" DGAP="0" TabFill="" TabWidth="36" AUTHOR="" COMMENTS="" KEYWORDS="" PUBLISHER="" DOCDATE="" DOCTYPE="" DOCFORMAT="" DOCIDENT="" DOCSOURCE="" DOCLANGINFO="" DOCRELATION="" DOCCOVER="" DOCRIGHTS="" DOCCONTRIB="" TITLE="" SUBJECT="" VHOCH="33" VHOCHSC="66" VTIEF="33" VTIEFSC="66" VKAPIT="75" BASEGRID="14.4" BASEO="0" AUTOL="20" UnderlinePos="-1" UnderlineWidth="-1" StrikeThruPos="-1" StrikeThruWidth="-1" GROUPC="3" HCMS="0" DPSo="0" DPSFo="0" DPuse="0" DPgam="0" DPbla="1" DPMo="CineonLog M " DPPr="Fogra27L CMYK Coated Press" DPIn="CineonLog M " DPInCMYK="Fogra27L CMYK Coated Press" DPIn2="CineonLog M " DPIn3="Fogra27L CMYK Coated Press" DISc="1" DIIm="0" ALAYER="8" LANGUAGE="English" MINWORDLEN="3" HYCOUNT="2" AUTOMATIC="1" AUTOCHECK="0" GUIDELOCK="1" SnapToGuides="1" SnapToGrid="0" MINGRID="20.0012598425197" MAJGRID="100.00062992126" SHOWGRID="0" SHOWGUIDES="1" showcolborders="1" SHOWFRAME="0" SHOWLAYERM="1" SHOWMARGIN="1" SHOWBASE="0" SHOWPICT="1" SHOWControl="0" SHOWLINK="0" rulerMode="1" showrulers="1" showBleed="1" rulerXoffset="0" rulerYoffset="0" GuideRad="10" GRAB="4" POLYC="4" POLYF="0.707106781186548" POLYR="0" POLYCUR="0" POLYFD="0" POLYS="0" AutoSave="1" AutoSaveTime="600000" ScratchBottom="20.0012598425197" ScratchLeft="100.00062992126" ScratchRight="100.00062992126" ScratchTop="20.0012598425197" GapHorizontal="0" GapVertical="39.9996850393701" StartArrow="0" EndArrow="0" PEN="Black" BRUSH="None" PENLINE="Black" PENTEXT="Black" StrokeText="Black" TextBackGround="None" TextLineColor="None" TextBackGroundShade="100" TextLineShade="100" TextPenShade="100" TextStrokeShade="100" STIL="1" STILLINE="1" WIDTH="1" WIDTHLINE="1" PENSHADE="100" LINESHADE="100" BRUSHSHADE="100" MAGMIN="10" MAGMAX="3200" MAGSTEP="200" CPICT="None" PICTSHADE="100" PICTSCX="1" PICTSCY="1" PSCALE="1" PASPECT="1" EmbeddedPath="0" HalfRes="1" dispX="0.019" dispY="0.019" constrain="15" MINORC="#00ff00" MAJORC="#00ff00" GuideC="#000080" BaseC="#c0c0c0" GuideZ="10" BACKG="0" PAGEC="#ffffff" MARGC="#0000ff" RANDF="0" currentProfile="PostScript">
+    <DOCUMENT ANZPAGES="4" PAGEWIDTH="595.275590551181" PAGEHEIGHT="841.889763779528" BORDERLEFT="28.3464566929134" BORDERRIGHT="28.3464566929134" BORDERTOP="28.3464566929134" BORDERBOTTOM="28.3464566929134" PRESET="0" BleedTop="8.50393700787402" BleedLeft="8.50393700787402" BleedRight="8.50393700787402" BleedBottom="8.50393700787402" ORIENTATION="0" PAGESIZE="A4" FIRSTNUM="1" BOOK="0" AUTOSPALTEN="1" ABSTSPALTEN="3.881" UNITS="1" DFONT="Bitstream Charter Bold" DSIZE="12" DCOL="1" DGAP="0" TabFill="" TabWidth="36" AUTHOR="" COMMENTS="" KEYWORDS="" PUBLISHER="" DOCDATE="" DOCTYPE="" DOCFORMAT="" DOCIDENT="" DOCSOURCE="" DOCLANGINFO="" DOCRELATION="" DOCCOVER="" DOCRIGHTS="" DOCCONTRIB="" TITLE="" SUBJECT="" VHOCH="33" VHOCHSC="66" VTIEF="33" VTIEFSC="66" VKAPIT="75" BASEGRID="14.4" BASEO="0" AUTOL="20" UnderlinePos="-1" UnderlineWidth="-1" StrikeThruPos="-1" StrikeThruWidth="-1" GROUPC="3" HCMS="0" DPSo="0" DPSFo="0" DPuse="0" DPgam="0" DPbla="1" DPMo="CineonLog M " DPPr="Fogra27L CMYK Coated Press" DPIn="CineonLog M " DPInCMYK="Fogra27L CMYK Coated Press" DPIn2="CineonLog M " DPIn3="Fogra27L CMYK Coated Press" DISc="1" DIIm="0" ALAYER="6" LANGUAGE="English" MINWORDLEN="3" HYCOUNT="2" AUTOMATIC="1" AUTOCHECK="0" GUIDELOCK="1" SnapToGuides="1" SnapToGrid="0" MINGRID="20.0012598425197" MAJGRID="100.00062992126" SHOWGRID="0" SHOWGUIDES="1" showcolborders="1" SHOWFRAME="0" SHOWLAYERM="1" SHOWMARGIN="1" SHOWBASE="0" SHOWPICT="1" SHOWControl="0" SHOWLINK="0" rulerMode="1" showrulers="1" showBleed="1" rulerXoffset="0" rulerYoffset="0" GuideRad="10" GRAB="4" POLYC="4" POLYF="0.707106781186548" POLYR="0" POLYCUR="0" POLYFD="0" POLYS="0" AutoSave="1" AutoSaveTime="600000" ScratchBottom="20.0012598425197" ScratchLeft="100.00062992126" ScratchRight="100.00062992126" ScratchTop="20.0012598425197" GapHorizontal="0" GapVertical="39.9996850393701" StartArrow="0" EndArrow="0" PEN="Black" BRUSH="None" PENLINE="Black" PENTEXT="Black" StrokeText="Black" TextBackGround="None" TextLineColor="None" TextBackGroundShade="100" TextLineShade="100" TextPenShade="100" TextStrokeShade="100" STIL="1" STILLINE="1" WIDTH="1" WIDTHLINE="1" PENSHADE="100" LINESHADE="100" BRUSHSHADE="100" MAGMIN="10" MAGMAX="3200" MAGSTEP="200" CPICT="None" PICTSHADE="100" PICTSCX="1" PICTSCY="1" PSCALE="1" PASPECT="1" EmbeddedPath="0" HalfRes="1" dispX="0.019" dispY="0.019" constrain="15" MINORC="#00ff00" MAJORC="#00ff00" GuideC="#000080" BaseC="#c0c0c0" GuideZ="10" BACKG="0" PAGEC="#ffffff" MARGC="#0000ff" RANDF="0" currentProfile="PostScript">
         <CheckProfile Name="PDF 1.3" ignoreErrors="0" autoCheck="1" checkGlyphs="1" checkOrphans="1" checkOverflow="1" checkPictures="1" checkResolution="1" checkTransparency="1" minResolution="144" maxResolution="2400" checkAnnotations="0" checkRasterPDF="1" checkForGIF="1" ignoreOffLayers="0" checkOffConflictLayers="0"/>
         <CheckProfile Name="PDF 1.4" ignoreErrors="0" autoCheck="1" checkGlyphs="1" checkOrphans="1" checkOverflow="1" checkPictures="1" checkResolution="1" checkTransparency="0" minResolution="144" maxResolution="2400" checkAnnotations="0" checkRasterPDF="1" checkForGIF="1" ignoreOffLayers="0" checkOffConflictLayers="0"/>
         <CheckProfile Name="PDF 1.5" ignoreErrors="0" autoCheck="1" checkGlyphs="1" checkOrphans="1" checkOverflow="1" checkPictures="1" checkResolution="1" checkTransparency="0" minResolution="144" maxResolution="2400" checkAnnotations="0" checkRasterPDF="1" checkForGIF="1" ignoreOffLayers="0" checkOffConflictLayers="0"/>
@@ -180,230 +180,192 @@
             <trail/>
             <PageItemAttributes/>
         </PAGEOBJECT>
-        <PAGEOBJECT OwnPage="0" PTYPE="4" XPOS="128.347086614173" YPOS="360.080708665355" WIDTH="538.588346456693" HEIGHT="447.75" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="2" COLGAP="25.51181102" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 538.588 0 538.588 0 538.588 0 538.588 0 538.588 447.75 538.588 447.75 538.588 447.75 538.588 447.75 0 447.75 0 447.75 0 447.75 0 447.75 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 538.588 0 538.588 0 538.588 0 538.588 0 538.588 447.75 538.588 447.75 538.588 447.75 538.588 447.75 0 447.75 0 447.75 0 447.75 0 447.75 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="6" BOOKMARK="0" NEXTITEM="22" BACKITEM="-1">
-            <ITEXT CH="When numerical functions or algorithms are already written in another language, it can be faster to link to them rather than re-write the algorithm in C.  This month's article looks at one example, linking C to FORTRAN77.  Before going any further, here is a solution to the challenge problem given in Issue 9."/>
+        <PAGEOBJECT OwnPage="0" PTYPE="4" XPOS="128.347086614173" YPOS="360.080708665355" WIDTH="538.588346456693" HEIGHT="447.75" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="25.51181102" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 538.588 0 538.588 0 538.588 0 538.588 0 538.588 447.75 538.588 447.75 538.588 447.75 538.588 447.75 0 447.75 0 447.75 0 447.75 0 447.75 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 538.588 0 538.588 0 538.588 0 538.588 0 538.588 447.75 538.588 447.75 538.588 447.75 538.588 447.75 0 447.75 0 447.75 0 447.75 0 447.75 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="6" BOOKMARK="0" NEXTITEM="22" BACKITEM="-1">
+            <ITEXT CH="Welcome back to the C cave.  How did you get on with the challenge problem given in Issue 13?"/>
             <para PARENT="Body text"/>
             <para PARENT="Body text"/>
             <ITEXT CH="Challenge solution"/>
             <para PARENT="Body title"/>
             <para PARENT="Body text"/>
-            <ITEXT CH="Start from the source code given in the Issue 9 article.  Then open the file "/>
-            <ITEXT FONT="Monaco Regular" CH="histogram.c"/>
-            <ITEXT CH=" file and add "/>
-            <ITEXT FONT="Monaco Regular" CH="#include &lt;math.h&gt;"/>
-            <ITEXT CH=" at the top of the file.  Then append the two functions,"/>
-            <para PARENT="Body text"/>
-            <ITEXT CH="Next, open the header file "/>
-            <ITEXT FONT="Monaco Regular" CH="histogram.h"/>
-            <ITEXT CH=" and before "/>
-            <ITEXT FONT="Monaco Regular" CH="#endif"/>
-            <ITEXT CH=" add the two function definitions,"/>
-            <para PARENT="Body text"/>
-            <ITEXT CH="These two functions can be tested by adding "/>
-            <ITEXT FONT="Monaco Regular" CH="printf"/>
-            <ITEXT CH=" statements to "/>
-            <ITEXT FONT="Monaco Regular" CH="main.c"/>
-            <ITEXT CH=","/>
-            <para PARENT="Body text"/>
-            <ITEXT CH="The next part of the problem involves reusing the last example given in Issue 6.  Instead of just writing the "/>
-            <ITEXT FONT="Monaco Regular" CH="ramUsed"/>
-            <ITEXT CH=" value to the output text file, create a histogram before the event loop.   Since the memory used is reported in bytes, the scale of the histogram will have to be adjusted to match the scale of the data.  Then inside the for loop add the "/>
-            <ITEXT FONT="Monaco Regular" CH="fillHist"/>
-            <ITEXT CH=" command.  Finally, after the for loop add the "/>
-            <ITEXT FONT="Monaco Regular" CH="histMean"/>
-            <ITEXT CH=", "/>
-            <ITEXT FONT="Monaco Regular" CH="histStdDev"/>
-            <ITEXT CH=" and "/>
-            <ITEXT FONT="Monaco Regular" CH="saveHist"/>
-            <ITEXT CH=" function calls."/>
+            <ITEXT CH="To use the solution, write it to a file called python.h and put it into the same directory as the C program, Makefile and Pythia FORTRAN file.  Then compile and run the program."/>
             <para PARENT="Body text"/>
             <para PARENT="Body text"/>
-            <ITEXT CH="Linking to FORTRAN77"/>
+            <ITEXT CH="Unions"/>
             <para PARENT="Body title"/>
             <para PARENT="Body text"/>
-            <ITEXT CH="FORTRAN has been around for a long time.  The 77 standard was used with punch cards and for this reason the spacing at the start of a line has special meaning.  If a character is present at the start of a line, the whole line is considered a comment.  Source code should start on the seventh character.  If a line is too long, a character six spaces from the left can be used to signal that the line is a continuation of the previous line."/>
+            <ITEXT FONTSIZE="10" CH="The syntax of declaring a union is the same as that of a struct.  However, unlike a struct, each of the data members share the same memory space as each other.  The amount of memory allocated to a union instance is set by the largest data member.  Similar to structs, union data members can be structs, unions or simple types (float, int, etc.).  The memory allocation can be demonstrated with a simple example,"/>
             <para PARENT="Body text"/>
             <para PARENT="Body text"/>
-            <ITEXT CH="Use a text editor, such as nano or emacs, to create a file called "/>
-            <ITEXT FONT="Monaco Regular" CH="fortran.for"/>
-            <ITEXT CH=".  Then append, "/>
             <para PARENT="Body text"/>
-            <ITEXT FONTSIZE="10" CH="The subroutine comm"/>
-            <ITEXT CH="ons is equivalent to a void function which has no arguments.  Data is passed into the subroutine by using the common block, which is called "/>
-            <ITEXT FONT="Monaco Regular" CH="FORCOM"/>
-            <ITEXT CH=".  The common block is defined in the "/>
-            <ITEXT FONT="Monaco Regular" CH="FORTRAN.INC"/>
-            <ITEXT CH=" file, which is included in a similar way as C header files.  The common block is a static global block of memory.  This means that the location of the associated memory is fixed when the program compiles.  The subroutine loops over the two 2-dimensional arrays and prints the values on the screen.  The "/>
-            <ITEXT FONT="Monaco Regular" CH="INTEGER"/>
-            <ITEXT CH=" type is equivalent to "/>
-            <ITEXT FONT="Monaco Regular" CH="int"/>
-            <ITEXT CH=" in C.  The "/>
-            <ITEXT FONT="Monaco Regular" CH="REAL"/>
-            <ITEXT CH=" type is equivalent to "/>
-            <ITEXT FONT="Monaco Regular" CH="float"/>
-            <ITEXT CH=" in C.  The arrays "/>
-            <ITEXT FONT="Monaco Regular" CH="INTARRAY"/>
-            <ITEXT CH=" and "/>
-            <ITEXT FONT="Monaco Regular" CH="REALARRAY"/>
-            <ITEXT CH=" are defined as being part of the common block.  Unlike C "/>
-            <ITEXT FONT="Monaco Regular" CH="structs"/>
-            <ITEXT CH=", they can be used simply by defining the common block in the same file.  The order of the memory of the variables within the common block is the same as within a C "/>
-            <ITEXT FONT="Monaco Regular" CH="struct"/>
-            <ITEXT CH=".  The order of the array elements is not the same as C.  For a 2-dimensional array, the first and second array indices are the second and first indices in C.  For a 3-dimensional array, the outer two indices are swapped with respect to C.  This becomes clear if the example given in this tutorial is extended.   Now add, "/>
+            <ITEXT FONTSIZE="9" CH=" #include &lt;stdio.h&gt;"/>
+            <para PARENT="Code"/>
+            <para PARENT="Code"/>
+            <ITEXT FONTSIZE="9" CH=" union share {"/>
+            <para PARENT="Code"/>
+            <ITEXT FONTSIZE="9" CH="   int index;"/>
+            <para PARENT="Code"/>
+            <ITEXT FONTSIZE="9" CH="   float value;"/>
+            <para PARENT="Code"/>
+            <ITEXT FONTSIZE="9" CH="   unsigned char bytes[8];"/>
+            <para PARENT="Code"/>
+            <ITEXT FONTSIZE="9" CH=" };"/>
+            <para PARENT="Code"/>
+            <para PARENT="Code"/>
+            <ITEXT FONTSIZE="9" CH=" int main() {"/>
+            <para PARENT="Code"/>
+            <ITEXT FONTSIZE="9" CH="   union share s;"/>
+            <para PARENT="Code"/>
+            <ITEXT FONTSIZE="9" CH="   printf(&quot;Size of s = %lu\n&quot;,sizeof(s));"/>
+            <para PARENT="Code"/>
+            <ITEXT FONTSIZE="9" CH="   printf(&quot;Size of s.index = %lu, address of s.index = %p\n&quot;,sizeof(s.index),&amp;s.index);"/>
+            <para PARENT="Code"/>
+            <ITEXT FONTSIZE="9" CH="   printf(&quot;Size of s.value = %lu, address of s.value = %p\n&quot;,sizeof(s.value),&amp;s.value);"/>
+            <para PARENT="Code"/>
+            <ITEXT FONTSIZE="9" CH="   printf(&quot;Size of s.bytes = %lu, address of s.bytes = %p\n&quot;,sizeof(s.bytes),&amp;s.bytes);"/>
+            <para PARENT="Code"/>
+            <ITEXT FONTSIZE="9" CH="   return 0;"/>
+            <para PARENT="Code"/>
+            <ITEXT FONTSIZE="9" CH=" }"/>
+            <para PARENT="Code"/>
             <para PARENT="Body text"/>
-            <ITEXT FONTSIZE="10" CH="to the end of "/>
-            <ITEXT FONT="Monaco Regular" FONTSIZE="10" CH="fortran.for"/>
-            <ITEXT FONTSIZE="10" CH=".  This FORTRAN function is equivalent to a C function with two parameters and a "/>
-            <ITEXT FONT="Monaco Regular" FONTSIZE="10" CH="float"/>
-            <ITEXT FONTSIZE="10" CH=" return value.  Notice that the type of the two parameters is not defined within the parentheses of the function, but is instead defined afterwards.  This function demonstrates how FORTRAN77 can be used to call a C function.  The C function is called in the same way a FORTRAN function is called and returns a "/>
-            <ITEXT FONT="Monaco Regular" FONTSIZE="10" CH="float"/>
-            <ITEXT FONTSIZE="10" CH=" value which is stored in the variable C.  The value returned is then printed to the screen."/>
-            <para PARENT="Body text"/>
-            <para PARENT="Body text"/>
-            <ITEXT CH="Now that "/>
-            <ITEXT FONT="Monaco Regular" CH="fortran.for"/>
-            <ITEXT CH=" is complete, create a file called "/>
-            <ITEXT FONT="Monaco Regular" CH="FORTRAN.INC"/>
-            <ITEXT CH=".  Then append,"/>
-            <para PARENT="Body text"/>
-            <ITEXT CH="Now that the FORTRAN code has been written, open a new file called"/>
-            <ITEXT FONT="Monaco Regular" CH=" fortran.h"/>
-            <ITEXT CH=".  Then add,"/>
-            <para PARENT="Body text"/>
-            <ITEXT CH="to "/>
-            <ITEXT FONT="Monaco Regular" CH="fortran.h"/>
-            <ITEXT CH=".  The "/>
-            <ITEXT FONT="Monaco Regular" CH="struct"/>
-            <ITEXT CH=" definition is equivalent to the FORTRAN common block.  Similar to FORTRAN, a single instance "/>
-            <ITEXT FONT="Monaco Regular" CH="forcom_"/>
-            <ITEXT CH=" is defined as "/>
-            <ITEXT FONT="Monaco Regular" CH="extern"/>
-            <ITEXT CH=".  The use of "/>
-            <ITEXT FONT="Monaco Regular" CH="extern"/>
-            <ITEXT CH=" means that while C defines this common block as a symbol it does not actually define an instance of the "/>
-            <ITEXT FONT="Monaco Regular" CH="struct"/>
-            <ITEXT CH=" in memory.  Instead of using an instance of the C "/>
-            <ITEXT FONT="Monaco Regular" CH="struct"/>
-            <ITEXT CH=", the program uses the FORTRAN common block "/>
-            <ITEXT FONT="Monaco Regular" CH="FORCOM"/>
-            <ITEXT CH=".  If the instance was not "/>
-            <ITEXT FONT="Monaco Regular" CH="extern"/>
-            <ITEXT CH=", then the C program would define "/>
-            <ITEXT FONT="Monaco Regular" CH="forcom_"/>
-            <ITEXT CH=" in a different memory location which did not match that used by the FORTRAN subroutine.  Each of the variables or functions in this file are written with lower case characters and end with an underscore character.  This is because FORTRAN is case insenstive when it is compiled.  The FORTRAN compiler also adds a trailing underscore character to the end of the variable or function names.  The function "/>
-            <ITEXT FONT="Monaco Regular" CH="call_back_"/>
-            <ITEXT CH=" has one more variable than the FORTRAN version.  This is because unlike C, FORTRAN keeps track of the length of the character array with one integer per string parameter.  In the case of C, the string terminating character ("/>
-            <ITEXT FONT="Monaco Regular" CH="\0"/>
-            <ITEXT CH=") is used  instead.  This means that FORTRAN strings can be one character longer than C strings. "/>
+            <ITEXT FONTSIZE="10" CH="where the result of compiling and running this code should be similar to:"/>
             <para PARENT="Body text"/>
             <para PARENT="Body text"/>
-            <ITEXT CH="If the "/>
-            <ITEXT FONT="Monaco Regular" CH="gfortran"/>
-            <ITEXT CH=" compiler is not already present, type:"/>
+            <ITEXT CH=" Size of s = 8"/>
+            <para PARENT="Code"/>
+            <ITEXT CH=" Size of s.index = 4, address of s.index = 0x7fff5fbff040"/>
+            <para PARENT="Code"/>
+            <ITEXT CH=" Size of s.value = 4, address of s.value = 0x7fff5fbff040"/>
+            <para PARENT="Code"/>
+            <ITEXT CH=" Size of s.bytes = 8, address of s.bytes = 0x7fff5fbff040"/>
+            <para PARENT="Code"/>
             <para PARENT="Body text"/>
-            <ITEXT CH="to install it.  Then compile "/>
-            <ITEXT FONT="Monaco Regular" CH="fortran.for"/>
-            <ITEXT CH=" by typing,"/>
-            <para PARENT="Body text"/>
-            <ITEXT CH="This will create a "/>
-            <ITEXT FONT="Monaco Regular" CH="fortran.o"/>
-            <ITEXT CH=" file.  The symbols defined in the machine code can be read using "/>
-            <ITEXT FONT="Monaco Regular" CH="nm"/>
-            <ITEXT CH=".  Type, "/>
+            <ITEXT FONTSIZE="10" CH="The unsigned char type uses one byte per element in the array.  This means that the array uses eight bytes.  The int and float types typically use four bytes with the default gcc compiler options.  Therefore, the of the union uses eight bytes.  Notice that the memory address of each of the data members is the same.  Try modifying this example by changing the union for struct.  Then re-run it and compare the size and addresses of the data members.  The result will be similar to:"/>
             <para PARENT="Body text"/>
             <para PARENT="Body text"/>
-            <ITEXT CH="to list the symbols.  "/>
-            <ITEXT FONT="Monaco Regular" CH="U"/>
-            <ITEXT CH=" means that the symbol is not defined, whereas "/>
-            <ITEXT FONT="Monaco Regular" CH="T"/>
-            <ITEXT CH=" implies that the symbol has been defined.  Try looking for the function names and the name of the common block variable.  When C code is compiled by the "/>
-            <ITEXT FONT="Monaco Regular" CH="gcc"/>
-            <ITEXT CH=" compiler, the resulting names have an underscore prefix.  This means that the declarations in "/>
-            <ITEXT FONT="Monaco Regular" CH="fortran.h"/>
-            <ITEXT CH=" will match the names given in "/>
-            <ITEXT FONT="Monaco Regular" CH="fortran.for"/>
-            <ITEXT CH=".  The other symbols given in the "/>
-            <ITEXT FONT="Monaco Regular" CH="nm"/>
-            <ITEXT CH=" output relate to system functions."/>
+            <ITEXT CH=" Size of s = 16"/>
+            <para PARENT="Code"/>
+            <ITEXT CH=" Size of s.index = 4, address of s.index = 0x7fff5fbff030"/>
+            <para PARENT="Code"/>
+            <ITEXT CH=" Size of s.value = 4, address of s.value = 0x7fff5fbff034"/>
+            <para PARENT="Code"/>
+            <ITEXT CH=" Size of s.bytes = 8, address of s.bytes = 0x7fff5fbff038"/>
+            <para PARENT="Code"/>
+            <para PARENT="Body text"/>
+            <ITEXT FONTSIZE="10" CH="which demonstrates that the memory allocation of a struct is sequential and the total size is the sum of the sizes of the data members."/>
             <para PARENT="Body text"/>
             <para PARENT="Body text"/>
-            <ITEXT CH="Now that the C header file has been written, create a new file called "/>
-            <ITEXT FONT="Monaco Regular" CH="main.c"/>
-            <ITEXT CH=".  Then add,"/>
+            <ITEXT FONTSIZE="10" CH="An union can be useful for encoding or decoding variables in a binary data stream.  For example, one of the union members could be a basic type such as an unsigned char array.  Then the basic type is written or read from a binary file, while the more complex type is uses within the program."/>
             <para PARENT="Body text"/>
             <para PARENT="Body text"/>
-            <ITEXT CH="When the "/>
-            <ITEXT FONT="Monaco Regular" CH="main"/>
-            <ITEXT CH="() function runs, the "/>
-            <ITEXT FONT="Monaco Regular" CH="fill_common()"/>
-            <ITEXT CH=" function is used to fill the arrays of the FORTRAN common block.  The "/>
-            <ITEXT FONT="Monaco Regular" CH="for"/>
-            <ITEXT CH=" loops are declared in the same way as the FORTRAN "/>
-            <ITEXT FONT="Monaco Regular" CH="do"/>
-            <ITEXT CH=" loops.  Unlike C, FORTRAN array indices start from 1 by default.  The array indices are the opposite of those used in "/>
-            <ITEXT FONT="Monaco Regular" CH="fortran.for"/>
-            <ITEXT CH=", the first index is the second and the second index is the first.  The string &quot;C string&quot; is then copied into the "/>
-            <ITEXT FONT="Monaco Regular" CH="somestring"/>
-            <ITEXT CH=" character array.  The "/>
-            <ITEXT FONT="Monaco Regular" CH="main"/>
-            <ITEXT CH=" function then calls the FORTRAN subroutine "/>
-            <ITEXT FONT="Monaco Regular" CH="commons_"/>
-            <ITEXT CH=" which prints the values stored in the common block.  The last function call in "/>
-            <ITEXT FONT="Monaco Regular" CH="main()"/>
-            <ITEXT CH=" is the "/>
-            <ITEXT FONT="Monaco Regular" CH="call_back_"/>
-            <ITEXT CH=" function.  This is a FORTRAN function in "/>
-            <ITEXT FONT="Monaco Regular" CH="fortran.for"/>
-            <ITEXT CH=", which calls the "/>
-            <ITEXT FONT="Monaco Regular" CH="mult_a_"/>
-            <ITEXT CH=" function defined in the "/>
-            <ITEXT FONT="Monaco Regular" CH="main.c"/>
-            <ITEXT CH=" file.  Unlike C, FORTRAN uses pointers for all variables passed into functions.  The only exception to this is the size of character arrays, which is not visible within the FORTRAN code."/>
+            <ITEXT CH="Dynamic memory allocation"/>
+            <para PARENT="Body title"/>
+            <para PARENT="Body text"/>
+            <ITEXT FONTSIZE="10" CH="Sometimes the size of the memory needed for a given stage of a program is not known at compile time.  Instead of declaring a large block of memory when it might not be needed, dynamic memory allocation allows a program to request or free memory use as needed."/>
             <para PARENT="Body text"/>
             <para PARENT="Body text"/>
-            <ITEXT CH="The easiest way to compile the two files together and produce an executable is to use a Makefile.  In the same directory as the "/>
-            <ITEXT FONT="Monaco Regular" CH="fortran.for"/>
-            <ITEXT CH=", "/>
-            <ITEXT FONT="Monaco Regular" CH="fortran.h"/>
-            <ITEXT CH=", "/>
-            <ITEXT FONT="Monaco Regular" CH="FORTRAN.INC"/>
-            <ITEXT CH=", and "/>
-            <ITEXT FONT="Monaco Regular" CH="main.c"/>
-            <ITEXT CH=" files, create a new file called "/>
-            <ITEXT FONT="Monaco Regular" CH="Makefile"/>
-            <ITEXT CH=".  Then add,"/>
+            <ITEXT FONTSIZE="10" CH="#include &lt;stdio.h&gt;"/>
             <para PARENT="Body text"/>
-            <ITEXT CH="The string "/>
-            <ITEXT FONT="Monaco Regular" CH="-lgfortran"/>
-            <ITEXT CH=" includes "/>
-            <ITEXT FONT="Monaco Regular" CH="libgfortran.a"/>
-            <ITEXT CH=" in the link command.  The space before the lines should be one tab character.  More information is given in the Issue 7 article on GNU make.  Once the Makefile has been saved, type "/>
-            <ITEXT FONT="Monaco Regular" CH="make"/>
-            <ITEXT CH=" to compile the code.  Then type "/>
-            <ITEXT FONT="Monaco Regular" CH="./Wrap "/>
-            <ITEXT CH="to run the program."/>
+            <ITEXT FONTSIZE="10" CH="#include &lt;unistd.h&gt;"/>
+            <para PARENT="Body text"/>
+            <ITEXT FONTSIZE="10" CH="int main(int argc, char *argv[]) {"/>
+            <para PARENT="Body text"/>
+            <ITEXT FONTSIZE="10" CH="  int *buffer = 0;"/>
+            <para PARENT="Body text"/>
+            <ITEXT FONTSIZE="10" CH="  unsigned int i, num_elements = 0;"/>
+            <para PARENT="Body text"/>
+            <para PARENT="Body text"/>
+            <ITEXT FONTSIZE="10" CH="  if(argc != 2) {"/>
+            <para PARENT="Body text"/>
+            <ITEXT FONTSIZE="10" CH="    printf(&quot;Usage: %s &lt;number of elements&gt;\n&quot;,argv[0]);"/>
+            <para PARENT="Body text"/>
+            <ITEXT FONTSIZE="10" CH="    return 1;"/>
+            <para PARENT="Body text"/>
+            <ITEXT FONTSIZE="10" CH="  }"/>
+            <para PARENT="Body text"/>
+            <ITEXT FONTSIZE="10" CH="  sscanf(argv[1],&quot;%u&quot;,&amp;num_elements);"/>
+            <para PARENT="Body text"/>
+            <ITEXT FONTSIZE="10" CH="  if(num_elements == 0) {"/>
+            <para PARENT="Body text"/>
+            <ITEXT FONTSIZE="10" CH="    printf(&quot;Error: the size of the array must be greater than 0\n&quot;);"/>
+            <para PARENT="Body text"/>
+            <ITEXT FONTSIZE="10" CH="    return 2;"/>
+            <para PARENT="Body text"/>
+            <ITEXT FONTSIZE="10" CH="  }  "/>
+            <para PARENT="Body text"/>
+            <para PARENT="Body text"/>
+            <ITEXT FONTSIZE="10" CH="  /* Sleep for 10 seconds. */"/>
+            <para PARENT="Body text"/>
+            <ITEXT FONTSIZE="10" CH="  sleep(10);"/>
+            <para PARENT="Body text"/>
+            <para PARENT="Body text"/>
+            <ITEXT FONTSIZE="10" CH="  /* Request a block of memory long enough for 1000 integers */"/>
+            <para PARENT="Body text"/>
+            <ITEXT FONTSIZE="10" CH="  buffer = (int*)malloc(sizeof(int)*num_elements);"/>
+            <para PARENT="Body text"/>
+            <para PARENT="Body text"/>
+            <ITEXT FONTSIZE="10" CH="  /* Check if the request was successful or not. */"/>
+            <para PARENT="Body text"/>
+            <ITEXT FONTSIZE="10" CH="  if(!buffer) {"/>
+            <para PARENT="Body text"/>
+            <ITEXT FONTSIZE="10" CH="    printf(&quot;Error: malloc failed\n&quot;);"/>
+            <para PARENT="Body text"/>
+            <ITEXT FONTSIZE="10" CH="    return 3;"/>
+            <para PARENT="Body text"/>
+            <ITEXT FONTSIZE="10" CH="  } "/>
+            <para PARENT="Body text"/>
+            <para PARENT="Body text"/>
+            <ITEXT FONTSIZE="10" CH="  /* Now use the memory as needed. */"/>
+            <para PARENT="Body text"/>
+            <ITEXT FONTSIZE="10" CH="  for(i; i&lt;num_elements; i++) {"/>
+            <para PARENT="Body text"/>
+            <ITEXT FONTSIZE="10" CH="    buffer[i] = i;"/>
+            <para PARENT="Body text"/>
+            <ITEXT FONTSIZE="10" CH="  }"/>
+            <para PARENT="Body text"/>
+            <para PARENT="Body text"/>
+            <ITEXT FONTSIZE="10" CH="  /* Print the last element to show that it is used. */"/>
+            <para PARENT="Body text"/>
+            <ITEXT FONTSIZE="10" CH="  printf(&quot;buffer[%u]=%u\n&quot;,num_elements-1,buffer[num_elements-1]);"/>
+            <para PARENT="Body text"/>
+            <para PARENT="Body text"/>
+            <ITEXT FONTSIZE="10" CH="  /* Sleep for 10 seconds. */"/>
+            <para PARENT="Body text"/>
+            <ITEXT FONTSIZE="10" CH="  sleep(10);"/>
+            <para PARENT="Body text"/>
+            <para PARENT="Body text"/>
+            <ITEXT FONTSIZE="10" CH="  /* Free the memory allocated to buffer. */"/>
+            <para PARENT="Body text"/>
+            <ITEXT FONTSIZE="10" CH="  free(buffer);"/>
+            <para PARENT="Body text"/>
+            <para PARENT="Body text"/>
+            <ITEXT FONTSIZE="10" CH="  /* Sleep for 10 more seconds. */"/>
+            <para PARENT="Body text"/>
+            <ITEXT FONTSIZE="10" CH="  sleep(10);"/>
+            <para PARENT="Body text"/>
+            <para PARENT="Body text"/>
+            <ITEXT FONTSIZE="10" CH="  return 0;"/>
+            <para PARENT="Body text"/>
+            <ITEXT FONTSIZE="10" CH="}"/>
+            <para PARENT="Body text"/>
+            <para PARENT="Body text"/>
+            <ITEXT FONTSIZE="10" CH="This program demonstrates how to request a block of memory on the heap and then free it again.  Compile the program using gcc.  Then open another terminal window and type top.  In the first terminal window, run the program"/>
+            <para PARENT="Body text"/>
+            <para PARENT="Body text"/>
+            <ITEXT FONTSIZE="10" CH="./dynamic-allocation 10000000"/>
+            <para PARENT="Body text"/>
+            <para PARENT="Body text"/>
+            <ITEXT FONTSIZE="10" CH="and then watch what happens using top.  The memory allocation of the program is initially quite small.  Then when the array is declared, the size will jump up.  Then after ten more seconds, the size of the example program will drop down again.  The function malloc returns a void pointer and the function free takes a void pointer as the single input variable.  Since malloc returns a void pointer, the example program casts the point pointer to the type of pointer needed."/>
+            <para PARENT="Body text"/>
+            <para PARENT="Body text"/>
+            <ITEXT FONTSIZE="10" CH="Dynamic memory allocation memory functions in C are declared in the stdlib.h header file.  Type man malloc for more information."/>
+            <para PARENT="Body text"/>
+            <para PARENT="Body text"/>
             <para PARENT="Body text"/>
             <para PARENT="Body text"/>
             <ITEXT CH="Challenge problem"/>
             <para PARENT="Body title"/>
             <para PARENT="Body text"/>
-            <ITEXT CH="The Standard Model of particle physics can be used to produce Higgs bosons in association with W and Z vector bosons from proton-proton collisions.  These processes have been studied at the Large Hadron Collider (LHC).  PYTHIA is a tool which generates final states, based on theoretical calculations and phenomological models.  The challenge is to use the FORTRAN PYTHIA6 ("/>
-            <ITEXT FCOLOR="Blue" FSHADE="100" CH="http://pythia6.hepforge.org/"/>
-            <ITEXT CH=") to generate ten Higgs events with associated W and Z vector bosons."/>
-            <para PARENT="Body text"/>
-            <para PARENT="Body text"/>
-            <ITEXT FONTSIZE="10" CH="Download the latest version of PYTHIA6 and use "/>
-            <ITEXT FONT="Monaco Regular" FONTSIZE="10" CH="gunzip"/>
-            <ITEXT FONTSIZE="10" CH=" to unzip it.  Then create a file called "/>
-            <ITEXT FONT="Monaco Regular" FONTSIZE="10" CH="main.c"/>
-            <ITEXT FONTSIZE="10" CH=" containing,"/>
-            <para PARENT="Body text"/>
-            <ITEXT FONTSIZE="10" CH="Create a file called  "/>
-            <ITEXT FONT="Monaco Regular" FONTSIZE="10" CH="pythia.h"/>
-            <ITEXT FONTSIZE="10" CH=", which contains the C declarations of the common block "/>
-            <ITEXT FONT="Monaco Regular" FONTSIZE="10" CH="PYSUBS"/>
-            <ITEXT FONTSIZE="10" CH=" and the  function definitions needed.  The FORTRAN declarations of the common block and the functions are in the PYTHIA source file.  Use make to compile the programs.  PYTHIA takes quite a long time to compile.  The solution will be given next time."/>
-            <trail PARENT="Body text"/>
             <PageItemAttributes/>
         </PAGEOBJECT>
         <PAGEOBJECT OwnPage="1" PTYPE="4" XPOS="128.34708661126" YPOS="956.505590551418" WIDTH="538.5883465" HEIGHT="730.9944094" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="25.51181102" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 538.588 0 538.588 0 538.588 0 538.588 0 538.588 730.994 538.588 730.994 538.588 730.994 538.588 730.994 0 730.994 0 730.994 0 730.994 0 730.994 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 538.588 0 538.588 0 538.588 0 538.588 0 538.588 730.994 538.588 730.994 538.588 730.994 538.588 730.994 0 730.994 0 730.994 0 730.994 0 730.994 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="6" BOOKMARK="0" NEXTITEM="23" BACKITEM="21">
@@ -455,213 +417,6 @@
         <PAGEOBJECT OwnPage="3" PTYPE="4" XPOS="128.34708661126" YPOS="2720.28448818922" WIDTH="538.5883465" HEIGHT="730.9944094" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="25.51181102" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 538.588 0 538.588 0 538.588 0 538.588 0 538.588 730.994 538.588 730.994 538.588 730.994 538.588 730.994 0 730.994 0 730.994 0 730.994 0 730.994 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 538.588 0 538.588 0 538.588 0 538.588 0 538.588 730.994 538.588 730.994 538.588 730.994 538.588 730.994 0 730.994 0 730.994 0 730.994 0 730.994 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="6" BOOKMARK="0" NEXTITEM="-1" BACKITEM="23">
             <PageItemAttributes/>
         </PAGEOBJECT>
-        <PAGEOBJECT OwnPage="1" PTYPE="4" XPOS="128.347086614173" YPOS="999" WIDTH="538.588346456693" HEIGHT="302" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="1" TEXTFLOW="1" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 538.588 0 538.588 0 538.588 0 538.588 0 538.588 302 538.588 302 538.588 302 538.588 302 0 302 0 302 0 302 0 302 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 538.588 0 538.588 0 538.588 0 538.588 0 538.588 302 538.588 302 538.588 302 538.588 302 0 302 0 302 0 302 0 302 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="6" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
-            <ITEXT FONTSIZE="9" CH="       SUBROUTINE COMMONS"/>
-            <para PARENT="Code"/>
-            <ITEXT FONTSIZE="9" CH="       IMPLICIT NONE"/>
-            <para PARENT="Code"/>
-            <ITEXT FONTSIZE="9" CH="       INCLUDE 'FORTRAN.INC'"/>
-            <para PARENT="Code"/>
-            <para PARENT="Code"/>
-            <ITEXT FONTSIZE="9" CH="       INTEGER I,J"/>
-            <para PARENT="Code"/>
-            <para PARENT="Code"/>
-            <ITEXT FONTSIZE="9" CH=" c     Print the contents of the INTEGER array."/>
-            <para PARENT="Code"/>
-            <ITEXT FONTSIZE="9" CH="       DO I=1,3"/>
-            <para PARENT="Code"/>
-            <ITEXT FONTSIZE="9" CH="          DO J=1,2"/>
-            <para PARENT="Code"/>
-            <ITEXT FONTSIZE="9" CH="             PRINT *,'COMMONS/INTARRAY(',I,',',J,')=',INTARRAY(I,J)"/>
-            <para PARENT="Code"/>
-            <ITEXT FONTSIZE="9" CH="          ENDDO"/>
-            <para PARENT="Code"/>
-            <ITEXT FONTSIZE="9" CH="       ENDDO"/>
-            <para PARENT="Code"/>
-            <para PARENT="Code"/>
-            <ITEXT FONTSIZE="9" CH=" c     Print the contents of the REAL array."/>
-            <para PARENT="Code"/>
-            <ITEXT FONTSIZE="9" CH="       DO I=1,2"/>
-            <para PARENT="Code"/>
-            <ITEXT FONTSIZE="9" CH="          DO J=1,3"/>
-            <para PARENT="Code"/>
-            <ITEXT FONTSIZE="9" CH="             PRINT *,'COMMONS/REALARRAY(',I,',',J,')=',REALARRAY(I,J)"/>
-            <para PARENT="Code"/>
-            <ITEXT FONTSIZE="9" CH="          ENDDO"/>
-            <para PARENT="Code"/>
-            <ITEXT FONTSIZE="9" CH="       ENDDO"/>
-            <para PARENT="Code"/>
-            <para PARENT="Code"/>
-            <ITEXT FONTSIZE="9" CH=" c     Print the string."/>
-            <para PARENT="Code"/>
-            <ITEXT FONTSIZE="9" CH="       PRINT *,'SOMESTRING=',SOMESTRING"/>
-            <para PARENT="Code"/>
-            <ITEXT FONTSIZE="9" CH="      "/>
-            <para PARENT="Code"/>
-            <ITEXT FONTSIZE="9" CH="       RETURN"/>
-            <para PARENT="Code"/>
-            <ITEXT FONTSIZE="9" CH="       END"/>
-            <trail PARENT="Code"/>
-            <PageItemAttributes/>
-        </PAGEOBJECT>
-        <PAGEOBJECT OwnPage="1" PTYPE="4" XPOS="128.34708661126" YPOS="1440.07811027872" WIDTH="538.5883465" HEIGHT="215.756535390568" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="1" TEXTFLOW="1" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 538.588 0 538.588 0 538.588 0 538.588 0 538.588 215.757 538.588 215.757 538.588 215.757 538.588 215.757 0 215.757 0 215.757 0 215.757 0 215.757 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 538.588 0 538.588 0 538.588 0 538.588 0 538.588 215.757 538.588 215.757 538.588 215.757 538.588 215.757 0 215.757 0 215.757 0 215.757 0 215.757 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="6" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
-            <ITEXT FONTSIZE="9" CH="       FUNCTION CALL_BACK(A,NAME)"/>
-            <para PARENT="Code"/>
-            <ITEXT FONTSIZE="9" CH="       IMPLICIT NONE"/>
-            <para PARENT="Code"/>
-            <ITEXT FONTSIZE="9" CH="       REAL A, C, CALL_BACK, MULT_A"/>
-            <para PARENT="Code"/>
-            <ITEXT FONTSIZE="9" CH="       CHARACTER*(*) NAME"/>
-            <para PARENT="Code"/>
-            <para PARENT="Code"/>
-            <ITEXT FONTSIZE="9" CH=" c     Print the string passed into this function"/>
-            <para PARENT="Code"/>
-            <ITEXT FONTSIZE="9" CH="       PRINT *,'CALL_BACK() NAME=',NAME"/>
-            <para PARENT="Code"/>
-            <para PARENT="Code"/>
-            <ITEXT FONTSIZE="9" CH=" c     Call a C function mult_a_ to multiply A by some factor"/>
-            <para PARENT="Code"/>
-            <ITEXT FONTSIZE="9" CH="       C = MULT_A(A)"/>
-            <para PARENT="Code"/>
-            <para PARENT="Code"/>
-            <ITEXT FONTSIZE="9" CH=" c     Print the value of C returned from mult_a_"/>
-            <para PARENT="Code"/>
-            <ITEXT FONTSIZE="9" CH="       PRINT *,'CALL_BACK() C=',C"/>
-            <para PARENT="Code"/>
-            <para PARENT="Code"/>
-            <ITEXT FONTSIZE="9" CH=" c     Return the value of C."/>
-            <para PARENT="Code"/>
-            <ITEXT FONTSIZE="9" CH="       CALL_BACK = C"/>
-            <para PARENT="Code"/>
-            <ITEXT FONTSIZE="9" CH="       RETURN"/>
-            <para PARENT="Code"/>
-            <ITEXT FONTSIZE="9" CH="       END"/>
-            <trail PARENT="Code"/>
-            <PageItemAttributes/>
-        </PAGEOBJECT>
-        <PAGEOBJECT OwnPage="2" PTYPE="4" XPOS="128.34708661126" YPOS="1983.66141732283" WIDTH="538.5883465" HEIGHT="289.65354330709" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="1" TEXTFLOW="1" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 538.588 0 538.588 0 538.588 0 538.588 0 538.588 289.654 538.588 289.654 538.588 289.654 538.588 289.654 0 289.654 0 289.654 0 289.654 0 289.654 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 538.588 0 538.588 0 538.588 0 538.588 0 538.588 289.654 538.588 289.654 538.588 289.654 538.588 289.654 0 289.654 0 289.654 0 289.654 0 289.654 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="6" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
-            <ITEXT FONTSIZE="9" CH=" #ifndef FORTRAN_H"/>
-            <para PARENT="Code"/>
-            <ITEXT FONTSIZE="9" CH=" #define FORTRAN_H"/>
-            <para PARENT="Code"/>
-            <para PARENT="Code"/>
-            <ITEXT FONTSIZE="9" CH=" /* The C side of the fortran common block definition. */"/>
-            <para PARENT="Code"/>
-            <ITEXT FONTSIZE="9" CH=" typedef struct {"/>
-            <para PARENT="Code"/>
-            <ITEXT FONTSIZE="9" CH="   int intarray[2][3];"/>
-            <para PARENT="Code"/>
-            <ITEXT FONTSIZE="9" CH="   float realarray[3][2];"/>
-            <para PARENT="Code"/>
-            <ITEXT FONTSIZE="9" CH="   char somestring[50];"/>
-            <para PARENT="Code"/>
-            <ITEXT FONTSIZE="9" CH=" } forcom;"/>
-            <para PARENT="Code"/>
-            <para PARENT="Code"/>
-            <ITEXT FONTSIZE="9" CH=" /* The memory is allocated by the fortran code.  Therefore used extern here to cause forcom_ to "/>
-            <para PARENT="Code"/>
-            <ITEXT FONTSIZE="9" CH="    be resolved to the FORTRAN code at link time. */ "/>
-            <para PARENT="Code"/>
-            <ITEXT FONTSIZE="9" CH=" extern forcom forcom_;"/>
-            <para PARENT="Code"/>
-            <para PARENT="Code"/>
-            <ITEXT FONTSIZE="9" CH=" /* Fortran subroutine COMMONS */"/>
-            <para PARENT="Code"/>
-            <ITEXT FONTSIZE="9" CH=" void commons_(void);"/>
-            <para PARENT="Code"/>
-            <para PARENT="Code"/>
-            <ITEXT FONTSIZE="9" CH=" /* Fortran function CALL_BACK */"/>
-            <para PARENT="Code"/>
-            <ITEXT FONTSIZE="9" CH=" float call_back_(float *,char *, int);"/>
-            <para PARENT="Code"/>
-            <para PARENT="Code"/>
-            <ITEXT FONTSIZE="9" CH=" /* A function called from fortran code */"/>
-            <para PARENT="Code"/>
-            <ITEXT FONTSIZE="9" CH=" float mult_a_(float *);"/>
-            <para PARENT="Code"/>
-            <para PARENT="Code"/>
-            <ITEXT FONTSIZE="9" CH=" #endif"/>
-            <trail PARENT="Code"/>
-            <PageItemAttributes/>
-        </PAGEOBJECT>
-        <PAGEOBJECT OwnPage="3" PTYPE="4" XPOS="128.347086570867" YPOS="2801.36157485355" WIDTH="538.5883465" HEIGHT="509.212913335426" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="1" TEXTFLOW="1" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 538.588 0 538.588 0 538.588 0 538.588 0 538.588 509.213 538.588 509.213 538.588 509.213 538.588 509.213 0 509.213 0 509.213 0 509.213 0 509.213 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 538.588 0 538.588 0 538.588 0 538.588 0 538.588 509.213 538.588 509.213 538.588 509.213 538.588 509.213 0 509.213 0 509.213 0 509.213 0 509.213 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="6" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
-            <ITEXT FONTSIZE="9" CH=" #include &lt;stdio.h&gt;"/>
-            <para PARENT="Code"/>
-            <ITEXT FONTSIZE="9" CH=" #include &quot;fortran.h&quot;"/>
-            <para PARENT="Code"/>
-            <para PARENT="Code"/>
-            <ITEXT FONTSIZE="9" CH=" /* A function to fill the FORTRAN common block. */"/>
-            <para PARENT="Code"/>
-            <ITEXT FONTSIZE="9" CH=" void fill_common(void) {"/>
-            <para PARENT="Code"/>
-            <ITEXT FONTSIZE="9" CH="   int i,j;"/>
-            <para PARENT="Code"/>
-            <para PARENT="Code"/>
-            <ITEXT FONTSIZE="9" CH="   for(i=1;i&lt;=2;i++) {"/>
-            <para PARENT="Code"/>
-            <ITEXT FONTSIZE="9" CH="     for(j=1;j&lt;=3;j++) {"/>
-            <para PARENT="Code"/>
-            <ITEXT FONTSIZE="9" CH="       /* Fill the int array */"/>
-            <para PARENT="Code"/>
-            <ITEXT FONTSIZE="9" CH="       forcom_.intarray[i-1][j-1] = i+j*10;"/>
-            <para PARENT="Code"/>
-            <para PARENT="Code"/>
-            <ITEXT FONTSIZE="9" CH="       /* Fill the float array */"/>
-            <para PARENT="Code"/>
-            <ITEXT FONTSIZE="9" CH="       forcom_.realarray[j-1][i-1] = j+(float)i*0.001;"/>
-            <para PARENT="Code"/>
-            <ITEXT FONTSIZE="9" CH="     }"/>
-            <para PARENT="Code"/>
-            <ITEXT FONTSIZE="9" CH="   }"/>
-            <para PARENT="Code"/>
-            <ITEXT FONTSIZE="9" CH="   /* Fill the character array */"/>
-            <para PARENT="Code"/>
-            <ITEXT FONTSIZE="9" CH="   sprintf(forcom_.somestring,&quot;C string&quot;);"/>
-            <para PARENT="Code"/>
-            <ITEXT FONTSIZE="9" CH=" }"/>
-            <para PARENT="Code"/>
-            <para PARENT="Code"/>
-            <ITEXT FONTSIZE="9" CH=" /* A function provided for the FORTRAN function CALL_BACK to call. */"/>
-            <para PARENT="Code"/>
-            <ITEXT FONTSIZE="9" CH=" float mult_a_(float *a) {"/>
-            <para PARENT="Code"/>
-            <ITEXT FONTSIZE="9" CH="   return (*a)*10.;"/>
-            <para PARENT="Code"/>
-            <ITEXT FONTSIZE="9" CH=" }"/>
-            <para PARENT="Code"/>
-            <para PARENT="Code"/>
-            <ITEXT FONTSIZE="9" CH=" int main() {"/>
-            <para PARENT="Code"/>
-            <ITEXT FONTSIZE="9" CH="   float a=3.14159;"/>
-            <para PARENT="Code"/>
-            <ITEXT FONTSIZE="9" CH="   char name[]=&quot;Wrapper&quot;;"/>
-            <para PARENT="Code"/>
-            <ITEXT FONTSIZE="9" CH="   int size;"/>
-            <para PARENT="Code"/>
-            <para PARENT="Code"/>
-            <ITEXT FONTSIZE="9" CH="   /* Fill common block FORCOM */"/>
-            <para PARENT="Code"/>
-            <ITEXT FONTSIZE="9" CH="   fill_common();"/>
-            <para PARENT="Code"/>
-            <para PARENT="Code"/>
-            <ITEXT FONTSIZE="9" CH="   /* Print values contained in common block */"/>
-            <para PARENT="Code"/>
-            <ITEXT FONTSIZE="9" CH="   commons_();"/>
-            <para PARENT="Code"/>
-            <para PARENT="Code"/>
-            <ITEXT FONTSIZE="9" CH="   /* Call the fortran function CALL_BACK(A,NAME) */"/>
-            <para PARENT="Code"/>
-            <ITEXT FONTSIZE="9" CH="   size=sizeof(name)/sizeof(char);"/>
-            <para PARENT="Code"/>
-            <ITEXT FONTSIZE="9" CH="   call_back_(&amp;a,name,size);"/>
-            <para PARENT="Code"/>
-            <para PARENT="Code"/>
-            <ITEXT FONTSIZE="9" CH="   return 0;"/>
-            <para PARENT="Code"/>
-            <ITEXT FONTSIZE="9" CH=" }"/>
-            <para PARENT="Code"/>
-            <PageItemAttributes/>
-        </PAGEOBJECT>
         <PAGEOBJECT OwnPage="1" PTYPE="6" XPOS="91.49952755926" YPOS="893.386771653418" WIDTH="612.2834646" HEIGHT="36.8503937" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="Black" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="1" LOCKR="1" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 612.283 0 612.283 0 612.283 0 612.283 0 612.283 36.8504 612.283 36.8504 612.283 36.8504 612.283 36.8504 0 36.8504 0 36.8504 0 36.8504 0 36.8504 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 612.283 0 612.283 0 612.283 0 612.283 0 612.283 36.8504 612.283 36.8504 612.283 36.8504 612.283 36.8504 0 36.8504 0 36.8504 0 36.8504 0 36.8504 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
             <trail/>
             <PageItemAttributes/>
@@ -678,14 +433,6 @@
             <trail/>
             <PageItemAttributes/>
         </PAGEOBJECT>
-        <PAGEOBJECT OwnPage="1" PTYPE="6" XPOS="128.347086614173" YPOS="993.834645669291" WIDTH="538.588346456693" HEIGHT="306.165354330709" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="C Cave orange" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="20" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 538.588 0 538.588 0 538.588 0 538.588 0 538.588 306.165 538.588 306.165 538.588 306.165 538.588 306.165 0 306.165 0 306.165 0 306.165 0 306.165 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 538.588 0 538.588 0 538.588 0 538.588 0 538.588 306.165 538.588 306.165 538.588 306.165 538.588 306.165 0 306.165 0 306.165 0 306.165 0 306.165 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="12" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
-            <trail/>
-            <PageItemAttributes/>
-        </PAGEOBJECT>
-        <PAGEOBJECT OwnPage="1" PTYPE="6" XPOS="128.34708661126" YPOS="1436.82677165354" WIDTH="538.5883465" HEIGHT="218.173228346457" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="C Cave orange" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="20" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 538.588 0 538.588 0 538.588 0 538.588 0 538.588 218.173 538.588 218.173 538.588 218.173 538.588 218.173 0 218.173 0 218.173 0 218.173 0 218.173 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 538.588 0 538.588 0 538.588 0 538.588 0 538.588 218.173 538.588 218.173 538.588 218.173 538.588 218.173 0 218.173 0 218.173 0 218.173 0 218.173 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="12" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
-            <trail/>
-            <PageItemAttributes/>
-        </PAGEOBJECT>
         <PAGEOBJECT OwnPage="2" PTYPE="6" XPOS="128.34708661126" YPOS="1901" WIDTH="538.5883465" HEIGHT="62.8188976377901" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="C Cave orange" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="20" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 538.588 0 538.588 0 538.588 0 538.588 0 538.588 62.8189 538.588 62.8189 538.588 62.8189 538.588 62.8189 0 62.8189 0 62.8189 0 62.8189 0 62.8189 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 538.588 0 538.588 0 538.588 0 538.588 0 538.588 62.8189 538.588 62.8189 538.588 62.8189 538.588 62.8189 0 62.8189 0 62.8189 0 62.8189 0 62.8189 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="12" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
             <trail/>
             <PageItemAttributes/>
@@ -694,119 +441,45 @@
             <trail/>
             <PageItemAttributes/>
         </PAGEOBJECT>
-        <PAGEOBJECT OwnPage="3" PTYPE="6" XPOS="128.34708661126" YPOS="2800.33070866142" WIDTH="538.5883465" HEIGHT="511" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="C Cave orange" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="20" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 538.588 0 538.588 0 538.588 0 538.588 0 538.588 511 538.588 511 538.588 511 538.588 511 0 511 0 511 0 511 0 511 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 538.588 0 538.588 0 538.588 0 538.588 0 538.588 511 538.588 511 538.588 511 538.588 511 0 511 0 511 0 511 0 511 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="12" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
-            <trail/>
+        <PAGEOBJECT OwnPage="0" PTYPE="4" XPOS="128.34708661126" YPOS="410.472440901575" WIDTH="538.588346459607" HEIGHT="229.803149649606" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="1" TEXTFLOW="1" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 538.588 0 538.588 0 538.588 0 538.588 0 538.588 229.803 538.588 229.803 538.588 229.803 538.588 229.803 0 229.803 0 229.803 0 229.803 0 229.803 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 538.588 0 538.588 0 538.588 0 538.588 0 538.588 229.803 538.588 229.803 538.588 229.803 538.588 229.803 0 229.803 0 229.803 0 229.803 0 229.803 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="6" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+            <ITEXT FONTSIZE="9" CH=" #ifndef PYTHIA_H"/>
+            <para PARENT="Code"/>
+            <ITEXT FONTSIZE="9" CH=" #define PYTHIA_H"/>
+            <para PARENT="Code"/>
+            <para PARENT="Code"/>
+            <ITEXT FONTSIZE="9" CH=" typedef struct {"/>
+            <para PARENT="Code"/>
+            <ITEXT FONTSIZE="9" CH="   int msel;"/>
+            <para PARENT="Code"/>
+            <ITEXT FONTSIZE="9" CH="   int mselpd;"/>
+            <para PARENT="Code"/>
+            <ITEXT FONTSIZE="9" CH="   int msub[500];"/>
+            <para PARENT="Code"/>
+            <ITEXT FONTSIZE="9" CH="   int kfin[81][2];"/>
+            <para PARENT="Code"/>
+            <ITEXT FONTSIZE="9" CH="   double ckin[200];"/>
+            <para PARENT="Code"/>
+            <ITEXT FONTSIZE="9" CH=" } PYSUBS;"/>
+            <para PARENT="Code"/>
+            <ITEXT FONTSIZE="9" CH=" extern PYSUBS pysubs_;"/>
+            <para PARENT="Code"/>
+            <para PARENT="Code"/>
+            <ITEXT FONTSIZE="9" CH=" void pyinit_(char *, char *, char *, double *, int, int, int);"/>
+            <para PARENT="Code"/>
+            <ITEXT FONTSIZE="9" CH=" void pystat_(int *);"/>
+            <para PARENT="Code"/>
+            <ITEXT FONTSIZE="9" CH=" void pyevnt_(void);"/>
+            <para PARENT="Code"/>
+            <ITEXT FONTSIZE="9" CH=" void pylist_(int *);"/>
+            <para PARENT="Code"/>
+            <ITEXT FONTSIZE="9" CH=" void pyhepc_(int *);"/>
+            <para PARENT="Code"/>
+            <para PARENT="Code"/>
+            <ITEXT FONTSIZE="9" CH=" #endif"/>
+            <para PARENT="Code"/>
             <PageItemAttributes/>
         </PAGEOBJECT>
-        <PAGEOBJECT OwnPage="0" PTYPE="4" XPOS="128.34708661126" YPOS="538.031496019685" WIDTH="387.65291338874" HEIGHT="229.803149649606" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="1" TEXTFLOW="1" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 387.653 0 387.653 0 387.653 0 387.653 0 387.653 229.803 387.653 229.803 387.653 229.803 387.653 229.803 0 229.803 0 229.803 0 229.803 0 229.803 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 387.653 0 387.653 0 387.653 0 387.653 0 387.653 229.803 387.653 229.803 387.653 229.803 387.653 229.803 0 229.803 0 229.803 0 229.803 0 229.803 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="6" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
-            <ITEXT CH=" d"/>
-            <ITEXT FONTSIZE="9" CH="ouble histMean(const Histogram *hist) {"/>
-            <para PARENT="Code"/>
-            <ITEXT FONTSIZE="9" CH="   unsigned int i;"/>
-            <para PARENT="Code"/>
-            <ITEXT FONTSIZE="9" CH="   double xMean = 0.;"/>
-            <para PARENT="Code"/>
-            <ITEXT FONTSIZE="9" CH="   for (i=1;i&lt;=hist-&gt;nBins;i++) { /* Skip underflow and overflow */"/>
-            <para PARENT="Code"/>
-            <ITEXT FONTSIZE="9" CH="     xMean += hist-&gt;binContents[i]/hist-&gt;nBins;"/>
-            <para PARENT="Code"/>
-            <ITEXT FONTSIZE="9" CH="   }"/>
-            <para PARENT="Code"/>
-            <ITEXT FONTSIZE="9" CH="   return xMean;"/>
-            <para PARENT="Code"/>
-            <ITEXT FONTSIZE="9" CH=" }"/>
-            <para PARENT="Code"/>
-            <para PARENT="Code"/>
-            <ITEXT FONTSIZE="9" CH=" double histStdDev(const Histogram *hist) {"/>
-            <para PARENT="Code"/>
-            <ITEXT FONTSIZE="9" CH="   unsigned int i;"/>
-            <para PARENT="Code"/>
-            <ITEXT FONTSIZE="9" CH="   double xMean, xStdDev = 0.;"/>
-            <para PARENT="Code"/>
-            <ITEXT FONTSIZE="9" CH="   xMean = histMean(hist);"/>
-            <para PARENT="Code"/>
-            <ITEXT FONTSIZE="9" CH="   for(i=1;i&lt;=hist-&gt;nBins;i++) { /* Skip underflow and overflow */"/>
-            <para PARENT="Code"/>
-            <ITEXT FONTSIZE="9" CH="     xStdDev += pow(xMean - hist-&gt;binContents[i],2)/(hist-&gt;nBins-1);"/>
-            <para PARENT="Code"/>
-            <ITEXT FONTSIZE="9" CH="   }"/>
-            <para PARENT="Code"/>
-            <ITEXT FONTSIZE="9" CH="   if(xStdDev &gt; 0.) xStdDev = sqrt(xStdDev);"/>
-            <para PARENT="Code"/>
-            <ITEXT FONTSIZE="9" CH="   return xStdDev;"/>
-            <para PARENT="Code"/>
-            <ITEXT FONTSIZE="9" CH=" }"/>
-            <trail PARENT="Code"/>
-            <PageItemAttributes/>
-        </PAGEOBJECT>
-        <PAGEOBJECT OwnPage="0" PTYPE="4" XPOS="411.811653540393" YPOS="362.283464523623" WIDTH="255.6529134" HEIGHT="64.14173228" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="1" TEXTFLOW="1" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 255.653 0 255.653 0 255.653 0 255.653 0 255.653 64.1417 255.653 64.1417 255.653 64.1417 255.653 64.1417 0 64.1417 0 64.1417 0 64.1417 0 64.1417 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 255.653 0 255.653 0 255.653 0 255.653 0 255.653 64.1417 255.653 64.1417 255.653 64.1417 255.653 64.1417 0 64.1417 0 64.1417 0 64.1417 0 64.1417 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="6" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
-            <ITEXT CH=" /* return the mean value. */"/>
-            <para PARENT="Code"/>
-            <ITEXT FONTSIZE="9" CH=" double histMean(const Histogram *hist);"/>
-            <para PARENT="Code"/>
-            <para PARENT="Code"/>
-            <ITEXT FONTSIZE="9" CH=" /* return the standard deviation. */"/>
-            <para PARENT="Code"/>
-            <ITEXT FONTSIZE="9" CH=" double histStdDev(const Histogram *hist);"/>
-            <trail PARENT="Code"/>
-            <PageItemAttributes/>
-        </PAGEOBJECT>
-        <PAGEOBJECT OwnPage="0" PTYPE="6" XPOS="128.34708661126" YPOS="533.834645669291" WIDTH="381.65291338874" HEIGHT="234" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="C Cave orange" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="20" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 381.653 0 381.653 0 381.653 0 381.653 0 381.653 234 381.653 234 381.653 234 381.653 234 0 234 0 234 0 234 0 234 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 381.653 0 381.653 0 381.653 0 381.653 0 381.653 234 381.653 234 381.653 234 381.653 234 0 234 0 234 0 234 0 234 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="12" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
-            <trail/>
-            <PageItemAttributes/>
-        </PAGEOBJECT>
-        <PAGEOBJECT OwnPage="0" PTYPE="6" XPOS="411" YPOS="358.551181092914" WIDTH="254.905511822284" HEIGHT="65.4488189070856" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="C Cave orange" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="20" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 254.906 0 254.906 0 254.906 0 254.906 0 254.906 65.4488 254.906 65.4488 254.906 65.4488 254.906 65.4488 0 65.4488 0 65.4488 0 65.4488 0 65.4488 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 254.906 0 254.906 0 254.906 0 254.906 0 254.906 65.4488 254.906 65.4488 254.906 65.4488 254.906 65.4488 0 65.4488 0 65.4488 0 65.4488 0 65.4488 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="12" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
-            <trail/>
-            <PageItemAttributes/>
-        </PAGEOBJECT>
-        <PAGEOBJECT OwnPage="0" PTYPE="4" XPOS="411.81165352126" YPOS="458.661417298425" WIDTH="255.6529134" HEIGHT="25.503937032284" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="1" TEXTFLOW="1" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 255.653 0 255.653 0 255.653 0 255.653 0 255.653 25.5039 255.653 25.5039 255.653 25.5039 255.653 25.5039 0 25.5039 0 25.5039 0 25.5039 0 25.5039 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 255.653 0 255.653 0 255.653 0 255.653 0 255.653 25.5039 255.653 25.5039 255.653 25.5039 255.653 25.5039 0 25.5039 0 25.5039 0 25.5039 0 25.5039 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="6" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
-            <ITEXT FONTSIZE="9" CH="  printf(&quot;Mean=%f\n&quot;,histMean(&amp;h));"/>
-            <para PARENT="Code"/>
-            <ITEXT FONTSIZE="9" CH="  printf(&quot;StdDev=%f\n&quot;,histStdDev(&amp;h));"/>
-            <trail PARENT="Code"/>
-            <PageItemAttributes/>
-        </PAGEOBJECT>
-        <PAGEOBJECT OwnPage="0" PTYPE="6" XPOS="411.00000002126" YPOS="454.929133898425" WIDTH="254.9055118" HEIGHT="30.9055117708668" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="C Cave orange" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="20" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 254.906 0 254.906 0 254.906 0 254.906 0 254.906 30.9055 254.906 30.9055 254.906 30.9055 254.906 30.9055 0 30.9055 0 30.9055 0 30.9055 0 30.9055 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 254.906 0 254.906 0 254.906 0 254.906 0 254.906 30.9055 254.906 30.9055 254.906 30.9055 254.906 30.9055 0 30.9055 0 30.9055 0 30.9055 0 30.9055 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="12" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
-            <trail/>
-            <PageItemAttributes/>
-        </PAGEOBJECT>
-        <PAGEOBJECT OwnPage="2" PTYPE="4" XPOS="128.34708661126" YPOS="2452.04661426061" WIDTH="538.5883465" HEIGHT="13.2762203850652" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="1" TEXTFLOW="1" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 538.588 0 538.588 0 538.588 0 538.588 0 538.588 13.2762 538.588 13.2762 538.588 13.2762 538.588 13.2762 0 13.2762 0 13.2762 0 13.2762 0 13.2762 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 538.588 0 538.588 0 538.588 0 538.588 0 538.588 13.2762 538.588 13.2762 538.588 13.2762 538.588 13.2762 0 13.2762 0 13.2762 0 13.2762 0 13.2762 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="6" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
-            <ITEXT FONTSIZE="9" CH=" sudo apt-get install -y gfortran "/>
-            <trail PARENT="Code"/>
-            <PageItemAttributes/>
-        </PAGEOBJECT>
-        <PAGEOBJECT OwnPage="2" PTYPE="4" XPOS="128.34708661126" YPOS="1902.12535441811" WIDTH="538.5883465" HEIGHT="60.69354327" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="1" TEXTFLOW="1" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 538.588 0 538.588 0 538.588 0 538.588 0 538.588 60.6935 538.588 60.6935 538.588 60.6935 538.588 60.6935 0 60.6935 0 60.6935 0 60.6935 0 60.6935 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 538.588 0 538.588 0 538.588 0 538.588 0 538.588 60.6935 538.588 60.6935 538.588 60.6935 538.588 60.6935 0 60.6935 0 60.6935 0 60.6935 0 60.6935 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="6" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
-            <ITEXT FONTSIZE="9" CH=" c     A collection of variables contained in a common block"/>
-            <para PARENT="Code"/>
-            <ITEXT FONTSIZE="9" CH="       INTEGER INTARRAY(3,2)"/>
-            <para PARENT="Code"/>
-            <ITEXT FONTSIZE="9" CH="       REAL REALARRAY(2,3)"/>
-            <para PARENT="Code"/>
-            <ITEXT FONTSIZE="9" CH="       CHARACTER*50 SOMESTRING"/>
-            <para PARENT="Code"/>
-            <ITEXT FONTSIZE="9" CH="       COMMON/FORCOM/INTARRAY,REALARRAY,SOMESTRING"/>
-            <trail PARENT="Code"/>
-            <PageItemAttributes/>
-        </PAGEOBJECT>
-        <PAGEOBJECT OwnPage="2" PTYPE="6" XPOS="128.34708661126" YPOS="2449.31496062992" WIDTH="183.65291338874" HEIGHT="16.7165354330416" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="C Cave orange" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="20" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 183.653 0 183.653 0 183.653 0 183.653 0 183.653 16.7165 183.653 16.7165 183.653 16.7165 183.653 16.7165 0 16.7165 0 16.7165 0 16.7165 0 16.7165 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 183.653 0 183.653 0 183.653 0 183.653 0 183.653 16.7165 183.653 16.7165 183.653 16.7165 183.653 16.7165 0 16.7165 0 16.7165 0 16.7165 0 16.7165 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="12" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
-            <trail/>
-            <PageItemAttributes/>
-        </PAGEOBJECT>
-        <PAGEOBJECT OwnPage="2" PTYPE="6" XPOS="128.34708661126" YPOS="2486.16535435747" WIDTH="183.6529134" HEIGHT="16.71653543" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="C Cave orange" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="20" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 183.653 0 183.653 0 183.653 0 183.653 0 183.653 16.7165 183.653 16.7165 183.653 16.7165 183.653 16.7165 0 16.7165 0 16.7165 0 16.7165 0 16.7165 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 183.653 0 183.653 0 183.653 0 183.653 0 183.653 16.7165 183.653 16.7165 183.653 16.7165 183.653 16.7165 0 16.7165 0 16.7165 0 16.7165 0 16.7165 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="12" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
-            <trail/>
-            <PageItemAttributes/>
-        </PAGEOBJECT>
-        <PAGEOBJECT OwnPage="2" PTYPE="4" XPOS="128.34708661126" YPOS="2528.58204735747" WIDTH="538.5883465" HEIGHT="13.9848818" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="1" TEXTFLOW="1" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 538.588 0 538.588 0 538.588 0 538.588 0 538.588 13.9849 538.588 13.9849 538.588 13.9849 538.588 13.9849 0 13.9849 0 13.9849 0 13.9849 0 13.9849 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 538.588 0 538.588 0 538.588 0 538.588 0 538.588 13.9849 538.588 13.9849 538.588 13.9849 538.588 13.9849 0 13.9849 0 13.9849 0 13.9849 0 13.9849 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="6" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
-            <ITEXT FONTSIZE="9" CH=" nm fortran.o"/>
-            <trail PARENT="Code"/>
-            <PageItemAttributes/>
-        </PAGEOBJECT>
-        <PAGEOBJECT OwnPage="2" PTYPE="4" XPOS="128.34708661126" YPOS="2488.8970079874" WIDTH="538.5883465" HEIGHT="13.9848818" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="1" TEXTFLOW="1" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 538.588 0 538.588 0 538.588 0 538.588 0 538.588 13.9849 538.588 13.9849 538.588 13.9849 538.588 13.9849 0 13.9849 0 13.9849 0 13.9849 0 13.9849 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 538.588 0 538.588 0 538.588 0 538.588 0 538.588 13.9849 538.588 13.9849 538.588 13.9849 538.588 13.9849 0 13.9849 0 13.9849 0 13.9849 0 13.9849 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="6" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
-            <ITEXT FONTSIZE="9" CH=" gfortran -c fortran.for "/>
-            <trail PARENT="Code"/>
-            <PageItemAttributes/>
-        </PAGEOBJECT>
-        <PAGEOBJECT OwnPage="2" PTYPE="6" XPOS="128.34708661126" YPOS="2525.85039375747" WIDTH="183.6529134" HEIGHT="16.71653543" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="C Cave orange" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="20" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 183.653 0 183.653 0 183.653 0 183.653 0 183.653 16.7165 183.653 16.7165 183.653 16.7165 183.653 16.7165 0 16.7165 0 16.7165 0 16.7165 0 16.7165 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 183.653 0 183.653 0 183.653 0 183.653 0 183.653 16.7165 183.653 16.7165 183.653 16.7165 183.653 16.7165 0 16.7165 0 16.7165 0 16.7165 0 16.7165 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="12" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+        <PAGEOBJECT OwnPage="0" PTYPE="6" XPOS="128.34708661126" YPOS="406.275590551181" WIDTH="538.588346459607" HEIGHT="234" RADRECT="0" FRTYPE="0" CLIPEDIT="1" PWIDTH="1" PCOLOR="C Cave orange" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="20" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 538.588 0 538.588 0 538.588 0 538.588 0 538.588 234 538.588 234 538.588 234 538.588 234 0 234 0 234 0 234 0 234 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 538.588 0 538.588 0 538.588 0 538.588 0 538.588 234 538.588 234 538.588 234 538.588 234 0 234 0 234 0 234 0 234 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="12" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
             <trail/>
             <PageItemAttributes/>
         </PAGEOBJECT>
@@ -844,6 +517,18 @@
         <PAGEOBJECT OwnPage="3" PTYPE="4" XPOS="660.52031492126" YPOS="3479.77984249921" WIDTH="25.51181102" HEIGHT="22.67716535" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" TXTFILL="White" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" ISIZE="20" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="1" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 25.5118 0 25.5118 0 25.5118 0 25.5118 0 25.5118 22.6772 25.5118 22.6772 25.5118 22.6772 25.5118 22.6772 0 22.6772 0 22.6772 0 22.6772 0 22.6772 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 25.5118 0 25.5118 0 25.5118 0 25.5118 0 25.5118 22.6772 25.5118 22.6772 25.5118 22.6772 25.5118 22.6772 0 22.6772 0 22.6772 0 22.6772 0 22.6772 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="8" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
             <ITEXT FONT="FreeSans Bold" FONTSIZE="20" FCOLOR="White" CH="39"/>
             <trail ALIGN="1"/>
+            <PageItemAttributes/>
+        </PAGEOBJECT>
+        <PAGEOBJECT OwnPage="1" PTYPE="6" XPOS="128.34708661126" YPOS="950.527559046462" WIDTH="538.5883465" HEIGHT="201.472440953538" RADRECT="0" FRTYPE="0" CLIPEDIT="1" PWIDTH="1" PCOLOR="C Cave orange" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="20" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 538.588 0 538.588 0 538.588 0 538.588 0 538.588 201.472 538.588 201.472 538.588 201.472 538.588 201.472 0 201.472 0 201.472 0 201.472 0 201.472 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 538.588 0 538.588 0 538.588 0 538.588 0 538.588 201.472 538.588 201.472 538.588 201.472 538.588 201.472 0 201.472 0 201.472 0 201.472 0 201.472 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="12" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+            <trail/>
+            <PageItemAttributes/>
+        </PAGEOBJECT>
+        <PAGEOBJECT OwnPage="1" PTYPE="6" XPOS="128.34708661126" YPOS="1183" WIDTH="538.5883465" HEIGHT="54.039370130159" RADRECT="0" FRTYPE="0" CLIPEDIT="1" PWIDTH="1" PCOLOR="C Cave orange" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="20" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 538.588 0 538.588 0 538.588 0 538.588 0 538.588 54.0394 538.588 54.0394 538.588 54.0394 538.588 54.0394 0 54.0394 0 54.0394 0 54.0394 0 54.0394 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 538.588 0 538.588 0 538.588 0 538.588 0 538.588 54.0393 538.588 54.0393 538.588 54.0393 538.588 54.0393 0 54.0393 0 54.0393 0 54.0393 0 54.0393 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="12" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+            <trail/>
+            <PageItemAttributes/>
+        </PAGEOBJECT>
+        <PAGEOBJECT OwnPage="1" PTYPE="6" XPOS="128.34708661126" YPOS="1310.55905507953" WIDTH="538.5883465" HEIGHT="54.03937013" RADRECT="0" FRTYPE="0" CLIPEDIT="1" PWIDTH="1" PCOLOR="C Cave orange" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="20" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 538.588 0 538.588 0 538.588 0 538.588 0 538.588 54.0394 538.588 54.0394 538.588 54.0394 538.588 54.0394 0 54.0394 0 54.0394 0 54.0394 0 54.0394 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 538.588 0 538.588 0 538.588 0 538.588 0 538.588 54.0393 538.588 54.0393 538.588 54.0393 538.588 54.0393 0 54.0393 0 54.0393 0 54.0393 0 54.0393 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="12" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+            <trail/>
             <PageItemAttributes/>
         </PAGEOBJECT>
     </DOCUMENT>

@@ -22,7 +22,7 @@ void pyhepc_(int *);
 
 #endif
 
-To use the solution, create a file called python.h and put it into the same directory as the C program, Makefile and Pythia FORTRAN file.  Then compile and run the program.
+To use the solution, write it to a file called python.h and put it into the same directory as the C program, Makefile and Pythia FORTRAN file.  Then compile and run the program.
 
 Unions
 

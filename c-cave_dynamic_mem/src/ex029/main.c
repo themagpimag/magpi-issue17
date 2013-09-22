@@ -1,49 +1,16 @@
-/* Needed for malloc */
-#include <stdlib.h>
-
-/* Needed for sleep */
-#include <unistd.h>
-
 #include <stdio.h>
 
-#define MEGABYTE 1048576
-
-/* A megabyte sized buffer */
-typedef unsigned char meg_buffer[MEGABYTE];
-
-void fill_buffer(meg_buffer buffer);
+union share {
+  int index;
+  float value;
+  unsigned char bytes[8];
+};
 
 int main() {
-  /* Define an array of points of the correct type to keep track of
-  ** the memory dynamically allocated. */
-  meg_buffer *large_buffer; 
-
-  /* Sleep for 5 second before requesting memory. */
-  sleep(5);
-    
-  /* Request a Megabyte block of memory and store a pointer to it. */
-  large_buffer = (meg_buffer*)malloc(sizeof(meg_buffer));
-    
-  /* Memory is only virtually allocated unless it is filled.
-  ** Therefore fill the allocated memory. */
-  fill_buffer(*large_buffer);
-  
-  /* Sleep for 5 seconds before freeing memory */
-  sleep(5);
-
-  /* Free the memory */
-  free(large_buffer);
-
-  /* Sleep for 5 seconds before the function finished. */
-  sleep(5);
-  
+  union share s;
+  printf("Size of s = %lu\n",sizeof(s));
+  printf("Size of s.index = %lu, address of s.index = %p\n",sizeof(s.index),&s.index);
+  printf("Size of s.value = %lu, address of s.value = %p\n",sizeof(s.value),&s.value);
+  printf("Size of s.bytes = %lu, address of s.bytes = %p\n",sizeof(s.bytes),&s.bytes);
   return 0;
-}
-
-/* Fill a Megabyte buffer with random numbers */
-void fill_buffer(meg_buffer buffer) {
-  long i;
-  for(i=0;i<MEGABYTE;i++) {
-    buffer[i] = (unsigned char)rand();
-  }
 }
