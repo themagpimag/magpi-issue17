@@ -1,0 +1,28 @@
+Welcome back to the C cave.  Before going any further, here is the solution to the problem in Issue 13.
+
+Challenge solution
+
+#ifndef PYTHIA_H
+#define PYTHIA_H
+
+typedef struct {
+  int msel;
+  int mselpd;
+  int msub[500];
+  int kfin[81][2];
+  double ckin[200];
+} PYSUBS;
+extern PYSUBS pysubs_;
+
+void pyinit_(char *, char *, char *, double *, int, int, int);
+void pystat_(int *);
+void pyevnt_(void);
+void pylist_(int *);
+void pyhepc_(int *);
+
+#endif
+
+To use the solution, put create a file called python.h and put it into the same directory as the C program, Makefile and Pythia FORTRAN file.  Then compile and run the program.
+
+Unions
+
