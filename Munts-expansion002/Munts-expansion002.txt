@@ -1,0 +1,50 @@
+Raspberry Pi LPC1114 I/O Processor
+SPI Agent Firmware
+By Philip Munts
+Munts Technologies
+
+Introduction
+In the MagPi issue #14, I introduced the LPC1114 I/O Processor Expansion board for the Raspberry Pi.  In this issue we will examine the factory default SPI Agent Firmware for the LPC1114 and some of the things than can be done with it, particularly with the analog inputs.
+During the manufacturing test process, SPI Agent Firmware is written to the LPC1114 microcontroller on each new expansion board.  The firmware is used for performing manufacturing tests to ensure the expansion board is fully functional.  It can be used for many other interesting projects as well.  We will explore how to measure analog signals with C and Python programs, using the LPC1114 I/O Processor expansion board SPI Agent Firmware.
+SPI (Serial Peripheral Interface)
+SPI (Serial Peripheral Interface) is an industry standard point to point serial communication protocol used between microprocessors and peripheral devices.  SPI is capable of medium speed (tens of megahertz) clock rates and is fairly simple to implement.  SPI systems are organized in a master/slave fashion, where one device (normally a processor of some type) is designated the master and completely controls the communication process.  One or more peripheral devices are designated as slaves (figure 1).
+Figure 1 – SPI Connections
+There are three I/O signals shared among all peripheral devices on an SPI bus, plus a dedicated chip select signal for each slave device.  So, an SPI bus requires 3+n I/O signals, where n is the number of peripheral devices.  The Raspberry Pi P1 expansion connector brings out one SPI bus with two chip select signals, so two different peripheral devices can be controlled by the Raspberry Pi, which is always the master.  The LPC1114 microcontroller on the I/O Processor Board is configured by firmware to act as an SPI slave, using the first chip select signal from the Raspberry Pi.
+Since the SPI bus is completely controlled by the master, it does not provide any mechanism for the peripheral device to signal a need for attention.  Either the master must continually send a polling message to the slave, or some other signal external to the SPI bus, such as a dedicated interrupt line, must be used to signal the master.  The LPC1114 I/O Processor expansion board has two interrupt lines connected between the LPC1114 microcontroller and the Raspberry Pi.
+SPI Agent Firmware
+I have defined a simple SPI message protocol that the Raspberry Pi uses to send commands to the LPC1114 microcontroller.  Each transaction consists of a 3-word (12-byte) command message sent to the LPC1114, a short delay, and a 4-word (16-byte) response received from the LPC1114.  See the source code header file include/spi-agent.h in the LPC1114 I/O Processor expansion board source tree for the data structures that implement this protocol.  The protocol defines commands for configuring the LPC1114 GPIO pins on the screw terminal block, reading from inputs, writing to outputs, and the like.
+Linux provides some system calls for issuing SPI transactions.  C programs can call the ioctl()  library function with special SPI specific parameters to make these system calls.  The ioctl() function is pretty ugly to deal with, so I have written some wrapper functions in common/RASPI_spi.c to make it easier.  The functions SPI_open(), SPI_close(), and SPI_transaction() are provided.  Most of the C demonstration programs for the LPC1114 I/O Processor expansion board use these three functions for communicating with the LPC1114 microcontroller.
+SPI Agent RPC Servers
+The SPI wrapper functions provide an efficient way for a C program to issue SPI commands to the LPC1114 microcontroller, but it is not as straightforward for other languages such as Python.  By further wrapping the SPI services with an RPC (Remote Procedure Call) server, it is possible to both make them easier to call from Python (or other languages) and make them network accessible.
+A RPC client program issues local subroutine calls that are transformed by the RPC library into network messages.  These messages are sent to an RPC server program running on the same machine or another machine somewhere else on the network.  The RPC server program transforms the incoming messages (using the RPC library again) from the client back into local subroutine calls that perform some service.  Then the RPC server sends return values and/or status back to the RPC client.  RPC essentially allows you to split a single program into parts that run on different machines.
+Two different RPC servers are provided for the LPC11114 I/O Processor expansion board.  For this discussion we will use the XML-RPC server.  XML-RPC passes data over the network using XML (eXtensible Markup Language) messages over HTTP (HyperText Transfer Protocol).  Python has native XML-RPC support, and it is very easy to use.  Many other programming languages (especially C, C++, Java, and C#) also have XML-RPC support available.
+The following Python3 program shows how to read a single analog input on the LPC1114 I/O Processor expansion board:
+import spi_agent
+import xmlrpc.client
+
+s = xmlrpc.client.ServerProxy('http://localhost:8080/RPC2')
+s.spi.agent.transaction(spi_agent.SPICMD_CONFIGURE_ANALOG_INPUT, spi_agent.LPC1114_GPIO0, 0)
+x = s.spi.agent.transaction(spi_agent.SPICMD_GET_ANALOG, spi_agent.LPC1114_GPIO0, 0)[2]
+print(str(x))
+
+The result, a number between 0 and 1023 inclusive, indicates the magnitude of the analog voltage at terminal GPIO0 / P1.0.
+Analog Joystick Demo
+For demonstration purposes I connected a Parallax #27800 (Radio Shack #275-030) to the LPC1114 I/O Processor expansion board.  Figure 2 shows the connections between the joystick and the expansion board terminal block.
+Figure 2 – Joystick Connections
+The sample program joystick.py, in the src/adc directory of the LPC1114 I/O Processor expansion board source tree, reads the position of the joystick from the P1.0 and P1.1 analog inputs, and moves a turtle in a turtle graphics window around (Figure 4).  Later in another article, we will show how to use the joystick for more sophisticated control purposes.
+Figure 3 – Turtle Graphics Screenshot
+A Raspberry Pi Experiment Board
+Figure 4 shows one of several Raspberry Pi experiment boards I have made, with the joystick attached.  The Raspberry Pi, the LPC1114 I/O Processor expansion board, and a solderless breadboard are mounted on a piece of wood.  
+Figure 4 – Raspberry Pi LPC1114 Experiment Board
+The circuit boards are mounted with #4 (3 mm) wood screws and plastic standoffs.  The solderless breadboard came with an adhesive pad and is just stuck to the wood.
+Links
+LPC1114 I/O Processor support info, including how to buy one:
+http://munts.com/rpi-lpc1114
+
+XML-RPC information:
+http://xmlrpc.com
+Python3  XML-RPC client library documentation:
+http://docs.python.org/3.2/library/xmlrpc.client.html
+
+Parallax 2-axis joystick information:
+http://learn.parallax.com/KickStart/27800
