@@ -129,7 +129,7 @@
             <ITEXT FONT="FreeSans Bold" FONTSIZE="10" CH="Matt Weaver"/>
             <ITEXT FONT="FreeSans Regular" FONTSIZE="10" CH=" - Layout"/>
             <para/>
-            <ITEXT FONT="FreeSans Bold" FONTSIZE="10" FCOLOR="Red" FSHADE="100" CH="tuncelb"/>
+            <ITEXT FONT="FreeSans Bold" FONTSIZE="10" FCOLOR="Black" FSHADE="100" CH="Bulent Tuncel"/>
             <ITEXT FONT="FreeSans Regular" FONTSIZE="10" CH=" - Layout"/>
             <para/>
             <ITEXT FONT="FreeSans Bold" FONTSIZE="10" CH="Matthew Watson"/>
