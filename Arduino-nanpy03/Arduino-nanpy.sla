@@ -91,7 +91,7 @@
             <ITEXT FONT="FreeSans Bold" FONTSIZE="25" CH="Digital temperature sensors"/>
             <para PARENT="TOC_Title_Style"/>
             <para PARENT="Body text"/>
-            <ITEXT CH="While it is possible to add analog temperature sensors to the Raspberry Pi, there are also several digital sensors available.  For example, in Issue 5 of the MagPi a Sparkfun tmp102 temperature sensor is connected to a Raspberry Pi over the I2C interface.  There is also the DS18B20 digital temperature sensor available from Adafruit."/>
+            <ITEXT CH="While it is possible to add analog temperature sensors to the Raspberry Pi, there are also several digital sensors available.  For example, in Issue 5 of the MagPi a Sparkfun tmp102 temperature sensor is connected to a Raspberry Pi over the I2C interface.  There is also the possibility of using a sensor with an USB interface such as in the PATOS article in Issue 16 of the MagPi.  Lastly, there is the DS18B20 digital temperature sensor available from Adafruit."/>
             <para PARENT="Body text"/>
             <para PARENT="Body text"/>
             <ITEXT CH="The DS18B20 is supplied as a three pin component with a 4.7kOhms resistor or as a prepackaged waterproof unit.  The DS18B20 is supported by the LINUX kernel present in the Raspbian distribution.  The University of Cambridge have put together some instruction on how to use this temperature sensor: "/>
@@ -99,11 +99,7 @@
             <ITEXT FCOLOR="Blue" FSHADE="100" CH="http://www.cl.cam.ac.uk/projects/raspberrypi/tutorials/temperature/"/>
             <para PARENT="Body text"/>
             <para PARENT="Body text"/>
-            <ITEXT CH="Once the DS18B20 is connected to the appropriate GPIO  pins, the temperature sensor will appear as a device under the system bus.  The temperature can then be read using cat or using Python to open the device using a simple file "/>
-            <ITEXT FONT="Monaco Regular" CH="open()"/>
-            <ITEXT CH=" function call followed by "/>
-            <ITEXT FONT="Monaco Regular" CH="read()"/>
-            <ITEXT CH="."/>
+            <ITEXT CH="Once the DS18B20 is connected to the appropriate GPIO  pins, the temperature sensor will appear as a device under the system bus.  The temperature can then be read using cat or using Python to open the device using a simple file open() function call followed by read()."/>
             <trail PARENT="Body text"/>
             <PageItemAttributes/>
         </PAGEOBJECT>
