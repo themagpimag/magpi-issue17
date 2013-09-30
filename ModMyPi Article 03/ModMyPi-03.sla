@@ -181,118 +181,91 @@
             <PageItemAttributes/>
         </PAGEOBJECT>
         <PAGEOBJECT OwnPage="0" PTYPE="4" XPOS="421.851023629134" YPOS="72.2047243826773" WIDTH="279.65291338874" HEIGHT="28.4153543574803" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" TXTFILL="White" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" IFONT="FreeSans Bold" ISIZE="20" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 279.653 0 279.653 0 279.653 0 279.653 0 279.653 28.4154 279.653 28.4154 279.653 28.4154 279.653 28.4154 0 28.4154 0 28.4154 0 28.4154 0 28.4154 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 279.653 0 279.653 0 279.653 0 279.653 0 279.653 28.4154 279.653 28.4154 279.653 28.4154 279.653 28.4154 0 28.4154 0 28.4154 0 28.4154 0 28.4154 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" ALIGN="1" LAYER="4" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
-            <ITEXT FONT="FreeSans Bold" FONTSIZE="20" FCOLOR="White" CH="THE PI-LITE"/>
+            <ITEXT FONT="FreeSans Bold" FONTSIZE="20" FCOLOR="White" CH="PHYSICAL COMPUTING"/>
             <trail ALIGN="1"/>
             <PageItemAttributes/>
         </PAGEOBJECT>
         <PAGEOBJECT OwnPage="0" PTYPE="4" XPOS="425.685669298425" YPOS="89.6988188976379" WIDTH="279.6529134" HEIGHT="34.0837795275591" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" TXTFILL="White" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" IFONT="FreeSans Regular" ISIZE="14" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 279.653 0 279.653 0 279.653 0 279.653 0 279.653 34.0838 279.653 34.0838 279.653 34.0838 279.653 34.0838 0 34.0838 0 34.0838 0 34.0838 0 34.0838 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 279.653 0 279.653 0 279.653 0 279.653 0 279.653 34.0838 279.653 34.0838 279.653 34.0838 279.653 34.0838 0 34.0838 0 34.0838 0 34.0838 0 34.0838 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" ALIGN="1" LAYER="4" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
-            <ITEXT FONT="FreeSans Regular" FONTSIZE="14" FCOLOR="White" CH="Get yours today from ModMyPi"/>
+            <ITEXT FONT="FreeSans Regular" FONTSIZE="14" FCOLOR="White" CH="Brought to you by ModMyPi"/>
             <trail ALIGN="1"/>
             <PageItemAttributes/>
         </PAGEOBJECT>
         <PAGEOBJECT OwnPage="0" PTYPE="4" XPOS="128.347086614173" YPOS="235.007874015748" WIDTH="381.977086614173" HEIGHT="77.25" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LINESP="25" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" IFONT="FreeSans Bold" ISIZE="25" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 381.977 0 381.977 0 381.977 0 381.977 0 381.977 77.25 381.977 77.25 381.977 77.25 381.977 77.25 0 77.25 0 77.25 0 77.25 0 77.25 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 381.977 0 381.977 0 381.977 0 381.977 0 381.977 77.25 381.977 77.25 381.977 77.25 381.977 77.25 0 77.25 0 77.25 0 77.25 0 77.25 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="5" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
-            <ITEXT FONT="FreeSans Bold" FONTSIZE="25" CH="A plug and play LED matrix board for the Raspberry Pi "/>
+            <ITEXT FONT="FreeSans Bold" FONTSIZE="25" CH="Buttons and switches with the Raspberry Pi"/>
             <trail LINESP="25"/>
             <PageItemAttributes/>
         </PAGEOBJECT>
         <PAGEOBJECT OwnPage="0" PTYPE="4" XPOS="128.347086614173" YPOS="360.080708665355" WIDTH="538.588346456693" HEIGHT="447.75" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="2" COLGAP="25.51181102" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 538.588 0 538.588 0 538.588 0 538.588 0 538.588 447.75 538.588 447.75 538.588 447.75 538.588 447.75 0 447.75 0 447.75 0 447.75 0 447.75 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 538.588 0 538.588 0 538.588 0 538.588 0 538.588 447.75 538.588 447.75 538.588 447.75 538.588 447.75 0 447.75 0 447.75 0 447.75 0 447.75 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="6" BOOKMARK="0" NEXTITEM="27" BACKITEM="-1">
-            <ITEXT CH="The Pi-Lite is a versatile, plug and play, 126 LED (9x14 Grid) matrix display for the Raspberry Pi. Each pixel is individually addressable - so you can display scrolling text, graphics and bar graphs; basically anything that can fit in 126 pixels! It’s a great starting place for doing something visual with your Raspberry Pi."/>
+            <ITEXT CH="Buttons and switches are a fundamental part of ‘physical’ computing. Your basic switch is usually required to control the on/off status of a circuit. However with a little programming from your Raspberry Pi, that same switch can be transformed into an incredibly versatile tool! You’ll be able to control I/O, start, stop, skip or run through a program (like telling a robot to go on a mission), set a system status by holding a switch for a period of time, or complete a multitude of other tasks that a switch alone cannot accomplish! Whether it is a switch, a sensor or any other physical component – being able to control and interact via programming with signals from these parts, such as the push of a button, is the basis of many physical computing projects. This beginner’s tutorial is designed to teach the basics of physical operation and programming with the Raspberry Pi using a simple momentary switch setup. "/>
             <para ALIGN="3"/>
             <para ALIGN="3"/>
-            <ITEXT CH="The Pi-Lite comes as a complete, fully assembled board that requires no soldering and it’s designed to plug straight into the Raspberry Pi’s GPIO ports. The matrix is controlled by an on-board ATMega 328 processor with pre-loaded software and works equally well with a Raspberry Pi using GPIO or with a PC, Mac or Linux machine via the on-board FTDI connector. You’ll find a short beginner’s guide to set the Pi-Lite up on the Raspberry Pi below."/>
+            <ITEXT CH="The tutorial requires a few simple components which are available from ModMyPi (product codes in brackets):"/>
             <para ALIGN="3"/>
             <para ALIGN="3"/>
-            <ITEXT FONT="FreeSans Bold" FONTSIZE="14" CH="Step 1 - setting up the Raspberry Pi for basic Pi-Lite functions!"/>
+            <ITEXT CH="- Medium Breadboard (BB2) – For laying out our components &amp; circuit."/>
+            <para ALIGN="3"/>
+            <ITEXT CH="- Male to Female Jumper Wires (JW8) – For jumping between the RPi &amp; breadboard."/>
+            <para ALIGN="3"/>
+            <ITEXT CH="- PCB Mount Switch (TAC001) – A four point basic momentary switch."/>
+            <para ALIGN="3"/>
+            <ITEXT CH="- ModMyPi’s Ridiculous Resistor Kit (RK995) – To protect our Pi &amp; calibrate the float voltage."/>
+            <para ALIGN="3"/>
+            <ITEXT CH="- 10KΩ Resistor - (Brown, Black, Black, Red, Brown)"/>
+            <para ALIGN="3"/>
+            <ITEXT CH="- 1KΩ Resistor - (Brown, Black, Black, Brown, Brown)"/>
+            <para ALIGN="3"/>
+            <ITEXT CH="- Breadboard Jumper Wire Kit (140KI) – For easy jumping on the breadboard."/>
             <para ALIGN="3"/>
             <para ALIGN="3"/>
-            <ITEXT CH="The Pi-Lite is as Ciseco product, so requires a custom Wheezy Image to be loaded onto an SD card and used for this task.  This image has reconfigured GPIO pins for serial access and the Minicom terminal emulator that’s used to send and receive characters from the serial port is pre-installed. You can set all this up manually on your version of Raspbian; however for ease of this tutorial we’ll use the custom image which can be downloaded at the following link:"/>
-            <para ALIGN="3"/>
-            <para/>
-            <ITEXT FONT="Monaco Regular" FONTSIZE="10" CH="http://openmicros.org/Download/2013-05-25-wheezy-raspbian-ciseco.img.zip"/>
-            <para/>
-            <para/>
-            <ITEXT CH="Simply unzip the image and load it onto an SD card like the standard Raspbian distribution."/>
+            <ITEXT FONT="FreeSans Bold" FONTSIZE="14" CH="The circuit"/>
             <para ALIGN="3"/>
             <para ALIGN="3"/>
-            <ITEXT FONT="FreeSans Bold" FONTSIZE="14" CH="Step 2 - the fun stuff!"/>
+            <ITEXT CH="The purpose of this circuit is to enable the Raspberry Pi to detect a change in voltage and run a program when the button (Switch 1) is pressed. This requires three GPIO pins on our Raspberry Pi: the first will provide a signal voltage of 3.3V (Vcc), the next will ground the circuit (GND), and the third will be configured as an input (GPIO IN) to detect the voltage change."/>
             <para ALIGN="3"/>
             <para ALIGN="3"/>
-            <ITEXT CH="Make sure your Raspberry Pi is switched off and then plug the Pi-Lite in. It sits on top of the GPIO ports within the footprint of the Raspberry Pi and fits neatly inside a ModMyPi case. Boot your Raspberry Pi up, log in and you’ll be presented with the Raspberry Pi command line. The Pi-Lite will also auto-boot with a very cool sequence!"/>
+            <ITEXT CH="When a GPIO pin is set to input, it doesn’t provide any power and consequently has no distinct voltage level; defined as ‘floating’. We need the pin to be capable of judging the difference between a high and low voltage, however in a floating state it’s liable to incorrectly detect states due to electrical noise. To enable the pin to see the difference between a high or low signal we must ‘tie’ that pin, calibrating it to a defined value; 3.3V in this case!"/>
             <para ALIGN="3"/>
             <para ALIGN="3"/>
-            <ITEXT CH="To access the Pi-Lite module via Minicom and send scrolling text messages, enter the command:"/>
-            <para ALIGN="3"/>
-            <para/>
-            <ITEXT FONT="Monaco Regular" FONTSIZE="10" CH="minicom -b 9600 -o -D /dev/ttyAMA0"/>
-            <para/>
-            <para/>
-            <ITEXT CH="Now, simply by typing, you can send any text to the Pi-Lite which will be scrolled across automatically. It’s also possible to enter Minicom’s command mode to change various settings, such as the scroll speed or pixel state."/>
-            <para ALIGN="3"/>
-            <ITEXT CH="To enter command mode type $$$ (three dollar signs) - which will stop all scrolling and Minicom will respond with “OK”. All commands must be sent as one string in UPPER case and terminated with a carriage return (pressing enter). After receiving and carrying out a command the Pi-Lite leaves command mode and returns to scroll mode. If a command is not received within a few seconds or a command is inputted incorrectly, the command control will be terminated and the Pi-Lite will return to scroll mode. "/>
+            <ITEXT CH="To tie the input pin, we connect it to the Vcc 3.3V pin, hence when Switch 1 is open, the current flows through GPIO IN and reads high. When Switch 1 is closed, we short the circuit and the current is pulled to GND; the input has 0V, and reads low! The large R1 (10kΩ) resistor in this circuit ensures that only a little current is drawn when the switch is pressed. If we don’t use this resistor, we are essentially connecting Vcc directly to GND, which would allow a large current to flow, potentially damaging the Pi! To make the circuit even safer in case we get something wrong, we add the R2 (1kΩ) resistor to limit the current to and from GPIO IN."/>
             <para ALIGN="3"/>
             <para ALIGN="3"/>
-            <ITEXT CH="As an example, we’ll increase the scrolling speed using the SPEED command. By default the scroll speed is set to 80, but it can be set anywhere from 1 (very fast) to 1000 (very slow). Let’s slow our scroll speed - simply type:"/>
-            <para ALIGN="3"/>
-            <para/>
-            <ITEXT FONT="Monaco Regular" FONTSIZE="10" CH="$$$SPEED200"/>
-            <para/>
-            <para/>
-            <ITEXT CH="Then hit enter. The Pi-Lite will automatically exit command mode and re-enter scroll mode. You can now check to see that your scroll speed has increased!"/>
+            <ITEXT FONT="FreeSans Bold" FONTSIZE="14" CH="The switch"/>
             <para ALIGN="3"/>
             <para ALIGN="3"/>
-            <ITEXT CH="There’s a full list of commands, as well as the example scripts utilised in Step 3 below, available at the following link. You’ll need these to show bar graphs, turn on/off individual pixels, and generally make your Pi-Lite function:"/>
-            <para ALIGN="3"/>
-            <para/>
-            <ITEXT FONT="Monaco Regular" FONTSIZE="10" CH="https://www.modmypi.com/pi-lite-raspberry-pi-led-matrix"/>
-            <para/>
-            <para/>
-            <ITEXT FONT="FreeSans Bold" FONTSIZE="14" CH="Step 3 - running scripts!"/>
+            <ITEXT CH="Four point switches are wired in a very similar manner to two point switches. They’re simply more versatile, as you can have multiple isolated inputs into the same switching point. Checking the diagrams, Pins 1 &amp; 2 are always connected, as are Pins 3 &amp; 4. However, both pin pairs are disconnected from each other when the button is not pressed e.g. Pins 1 &amp; 2 are isolated from Pins 3 &amp; 4. When the button is pressed the two sides of the switch are linked and Pins 1, 2, 3 &amp; 4 are all connected!"/>
             <para ALIGN="3"/>
             <para ALIGN="3"/>
-            <ITEXT CH="What’s great about the Pi-Lite is that it enables you to run custom Python scripts and subsequently show graphics, repeated text strings, read the weather, run a real-time Twitter feed or display anything else you can imagine! I’ll show you how to download and run some example Python scripts, but you can always edit them or write your own if you’re feeling adventurous! Please note, use upper case in the commands where stated."/>
+            <ITEXT CH="In ‘momentary’ switches the circuit disconnects when pressure is removed from the button, as opposed to ‘toggle’ switches when one push connects and the next push disconnects the internal switch circuit. "/>
             <para ALIGN="3"/>
             <para ALIGN="3"/>
-            <ITEXT CH="The Ciseco Wheezy image will already have a suitable version of Python installed. However, you’ll also need to install the “Git Control System” and the “Python Serial Package”:"/>
+            <ITEXT FONT="FreeSans Bold" FONTSIZE="14" CH="Where does it all go?"/>
             <para ALIGN="3"/>
-            <para/>
-            <ITEXT FONT="Monaco Regular" FONTSIZE="10" CH="sudo apt-get install git"/>
-            <para/>
-            <ITEXT FONT="Monaco Regular" FONTSIZE="10" CH="sudo apt-get install python-serial"/>
-            <para/>
-            <para/>
-            <ITEXT CH="We now need to pull the library files from Github and put them in a directory. First ensure you are in your home directory by changing directory to the standard home location:"/>
             <para ALIGN="3"/>
-            <para/>
-            <ITEXT FONT="Monaco Regular" FONTSIZE="10" CH="cd /home/pi"/>
-            <para/>
-            <para/>
-            <ITEXT CH="Then create a directory for the Github example files and browse to it:"/>
+            <ITEXT CH="WARNING. When hooking up to GPIO points on your Raspberry Pi care must be taken, as connecting the wrong points could permanently fry your Pi. Please use a GPIO cheat-sheet, and double check everything before switching it on. I will denote each GPIO point by its name, and physical location, for example GPIO P17 is actually located at Pin 11, denoted: GPIO P17 [Pin 11]. The irregularities are a result of the pin names being referenced by the on board chip rather than their physical location."/>
             <para ALIGN="3"/>
-            <para/>
-            <ITEXT FONT="Monaco Regular" FONTSIZE="10" CH="mkdir git"/>
-            <para/>
-            <ITEXT FONT="Monaco Regular" FONTSIZE="10" CH="cd git"/>
-            <para/>
-            <para/>
-            <ITEXT CH="Now obtain the Pi-Lite source code. This includes the Python examples:"/>
             <para ALIGN="3"/>
-            <para/>
-            <ITEXT FONT="Monaco Regular" FONTSIZE="10" CH="git clone git://github.com/CisecoPlc/PiLite.git"/>
-            <para/>
-            <para/>
-            <ITEXT CH="You can now browse to the example scripts: "/>
+            <ITEXT CH="1. Connect Pi to Ground Rail. Use a black jumper wire to connect GPIO GND [Pin 6] on the Pi to the Negative rail on the breadboard – the rail on the edge of the board with the negative sign (-)."/>
             <para ALIGN="3"/>
-            <para/>
-            <ITEXT FONT="Monaco Regular" FONTSIZE="10" CH="cd PiLite/Python_Examples"/>
-            <para/>
-            <para/>
-            <ITEXT CH="Some of the scripts can be run straight from the command line via Python (CTRL+C will terminate). For this example we’ll run the Pacman example script, which displays (you guessed it) Pacman on the Pi-Lite!:"/>
             <para ALIGN="3"/>
-            <para/>
-            <ITEXT FONT="Monaco Regular" FONTSIZE="10" CH="python Pacman.py"/>
-            <para/>
-            <para/>
-            <ITEXT CH="As with all Raspberry Pi projects - the best way to learn is to play and a great place to start is the Pi-Lite!"/>
+            <ITEXT CH="2. Connect Pi 3.3V to Positive Rail. Use a red jumper wire to connect GPIO 3.3V [Pin 1] on the Pi to the Positive rail on the breadboard – the edge rail with the positive sign (+)."/>
+            <para ALIGN="3"/>
+            <para ALIGN="3"/>
+            <ITEXT CH="3. Plug your switch in. When breadboarding, make sure all of the legs are in separate rows. To achieve this straddle the central channel on the breadboard."/>
+            <para ALIGN="3"/>
+            <para ALIGN="3"/>
+            <ITEXT CH="4. Add 10kΩ Resistor. Connect this from Switch Pin 1, to the positive (+) rail of the breadboard. Orientation of standard film resistors is unimportant."/>
+            <para ALIGN="3"/>
+            <para ALIGN="3"/>
+            <ITEXT CH="5. Connect Switch to Ground. Use a breadboard jumper wire to hook Switch Pin 3 to the ground (-) rail."/>
+            <para ALIGN="3"/>
+            <para ALIGN="3"/>
+            <ITEXT CH="6. Connect Switch to 1kΩ Resistor. Add this resistor between Switch Pin 1 and the 10kΩ Resistor and take it to a clear rail."/>
+            <para ALIGN="3"/>
+            <para ALIGN="3"/>
+            <ITEXT CH="7. Connect Switch to Signal Port. We’ll be using GPIO P17 to detect the 3.3V signal when the switch is pressed. Simply hook up a jumper between GPIO P17 [Pin 11] on the Pi and the 1kΩ Resistor rail."/>
+            <para ALIGN="3"/>
+            <para ALIGN="3"/>
+            <ITEXT CH="That’s our circuit built! Next time, we’ll write a simple program in Python to run when we press the switch!"/>
             <trail ALIGN="3"/>
             <PageItemAttributes/>
         </PAGEOBJECT>
@@ -394,6 +367,22 @@
             <PageItemAttributes/>
         </PAGEOBJECT>
         <PAGEOBJECT OwnPage="1" PTYPE="4" XPOS="128.347086614173" YPOS="1431.50393705039" WIDTH="260.6854248" HEIGHT="34" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="1" ANTYPE="11" ANACTION="" ANEACT="" ANXACT="" ANDACT="" ANFOACT="" ANBLACT="" ANKACT="" ANFACT="" ANVACT="" ANCACT="" ANEXTERN="https://www.modmypi.com/pi-lite-raspberry-pi-led-matrix" ANZIEL="0" ANACTYP="8" ANTOOLTIP="" ANBWID="1" ANBSTY="0" ANFEED="1" ANFLAG="0" ANFONT="4" ANFORMAT="0" ANROLL="" ANDOWN="" ANVIS="0" ANMC="-1" ANCHK="0" ANAA="0" ANCHKS="0" ANBCOL="Black" ANHTML="0" ANICON="0" ANPLACE="1" ANSCALE="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 260.685 0 260.685 0 260.685 0 260.685 0 260.685 34 260.685 34 260.685 34 260.685 34 0 34 0 34 0 34 0 34 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 260.685 0 260.685 0 260.685 0 260.685 0 260.685 34 260.685 34 260.685 34 260.685 34 0 34 0 34 0 34 0 34 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="6" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+            <trail/>
+            <PageItemAttributes/>
+        </PAGEOBJECT>
+        <PAGEOBJECT OwnPage="0" PTYPE="2" XPOS="411.811653543307" YPOS="526.411417322834" WIDTH="255.123779527559" HEIGHT="161.25" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="0.592830882352941" LOCALSCY="0.592830882352941" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="0" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="1" TEXTFLOW="1" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="circuit.jpg" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="0" EMBEDDED="0" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 255.124 0 255.124 0 255.124 0 255.124 0 255.124 161.25 255.124 161.25 255.124 161.25 255.124 161.25 0 161.25 0 161.25 0 161.25 0 161.25 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 255.124 0 255.124 0 255.124 0 255.124 0 255.124 161.25 255.124 161.25 255.124 161.25 255.124 161.25 0 161.25 0 161.25 0 161.25 0 161.25 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="6" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+            <trail/>
+            <PageItemAttributes/>
+        </PAGEOBJECT>
+        <PAGEOBJECT OwnPage="1" PTYPE="2" XPOS="411.811653543307" YPOS="970.334645669291" WIDTH="127.55905511811" HEIGHT="84.6269291338588" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="0.155749762048975" LOCALSCY="0.155749762048975" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="0" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="1" TEXTFLOW="1" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="switchdiagram.png" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="0" EMBEDDED="0" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 127.559 0 127.559 0 127.559 0 127.559 0 127.559 84.6269 127.559 84.6269 127.559 84.6269 127.559 84.6269 0 84.6269 0 84.6269 0 84.6269 0 84.6269 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 127.559 0 127.559 0 127.559 0 127.559 0 127.559 84.6269 127.559 84.6269 127.559 84.6269 127.559 84.6269 0 84.6269 0 84.6269 0 84.6269 0 84.6269 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="6" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+            <trail/>
+            <PageItemAttributes/>
+        </PAGEOBJECT>
+        <PAGEOBJECT OwnPage="1" PTYPE="2" XPOS="539.370708661418" YPOS="972.756850393701" WIDTH="127.564724409449" HEIGHT="71.9931496062985" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="0.148158797223518" LOCALSCY="0.148158797223518" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="0" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="1" TEXTFLOW="1" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="switchpicture.jpg" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="0" EMBEDDED="0" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 127.565 0 127.565 0 127.565 0 127.565 0 127.565 71.9931 127.565 71.9931 127.565 71.9931 127.565 71.9931 0 71.9931 0 71.9931 0 71.9931 0 71.9931 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 127.565 0 127.565 0 127.565 0 127.565 0 127.565 71.9931 127.565 71.9931 127.565 71.9931 127.565 71.9931 0 71.9931 0 71.9931 0 71.9931 0 71.9931 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="6" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+            <trail/>
+            <PageItemAttributes/>
+        </PAGEOBJECT>
+        <PAGEOBJECT OwnPage="1" PTYPE="2" XPOS="411.811653543307" YPOS="1254" WIDTH="255.123779527559" HEIGHT="154.5" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="0.284007352941176" LOCALSCY="0.284007352941176" LOCALX="79.8471064903295" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="1" TEXTFLOW="1" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="breadboard with pi.jpg" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="0" EMBEDDED="0" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 255.124 0 255.124 0 255.124 0 255.124 0 255.124 154.5 255.124 154.5 255.124 154.5 255.124 154.5 0 154.5 0 154.5 0 154.5 0 154.5 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 255.124 0 255.124 0 255.124 0 255.124 0 255.124 154.5 255.124 154.5 255.124 154.5 255.124 154.5 0 154.5 0 154.5 0 154.5 0 154.5 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="6" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
             <trail/>
             <PageItemAttributes/>
         </PAGEOBJECT>
