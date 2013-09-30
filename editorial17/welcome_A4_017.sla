@@ -96,7 +96,7 @@
             <ITEXT FONT="FreeSans Regular" FONTSIZE="10" CH=" - Page Design / Graphics"/>
             <para LINESP="13"/>
             <ITEXT FONT="FreeSans Bold" FONTSIZE="10" CH="Ian McAlpine"/>
-            <ITEXT FONT="FreeSans Regular" FONTSIZE="10" CH=" - Layout / Tester"/>
+            <ITEXT FONT="FreeSans Regular" FONTSIZE="10" CH=" - Tester"/>
             <ITEXT CH=" / Proof Reading"/>
             <para LINESP="13"/>
             <ITEXT FONT="FreeSans Bold" FONTSIZE="10" CH="Matt Judge"/>
@@ -106,7 +106,7 @@
             <ITEXT FONT="FreeSans Regular" FONTSIZE="10" CH=" - Layout"/>
             <para LINESP="13"/>
             <ITEXT FONT="FreeSans Bold" CH="Colin Deady"/>
-            <ITEXT CH=" - Layout"/>
+            <ITEXT CH=" - Layout / Tester / Proof Reading"/>
             <para LINESP="13"/>
             <ITEXT FONT="FreeSans Bold" CH="Shelton Caruthers"/>
             <ITEXT CH=" - Tester / Proof Reading"/>
