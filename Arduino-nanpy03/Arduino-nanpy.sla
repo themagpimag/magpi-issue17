@@ -222,7 +222,7 @@
             <ITEXT CH="USB Arduino link - Part 3"/>
             <para PARENT="Body title" LINESP="16"/>
             <para PARENT="Body text" LINESP="16"/>
-            <ITEXT CH="In previous months I have explained how to set up your Raspberry Pi so that it could communicate with an Arduino via a serial USB cable using Nanpy, how to read digital and analogue values from switches and potentiometers attached to the Arduino’s pins and how to write values to these same pins to control LEDS and a Liquid Crystal Display (LCD); all using Python. This month I will explain how to read temperatures and suggest a few ideas for you to try to increase your skills using what has been covered so far."/>
+            <ITEXT CH="In previous months I have explained how to set up your Raspberry Pi so that it could communicate with an Arduino via a serial USB cable using Nanpy, how to read digital and analogue values from switches and potentiometers attached to the Arduino’s pins, and how to write values to these same pins to control LEDS and a Liquid Crystal Display (LCD), all using Python. This month I will explain how to read temperatures and suggest a few ideas for you to try to increase your skills using what has been covered so far."/>
             <para PARENT="Body text" LINESP="16"/>
             <para PARENT="Body text" LINESP="16"/>
             <ITEXT CH="Reading temperature"/>
@@ -239,11 +239,19 @@
             <ITEXT CH="for even more information."/>
             <para PARENT="Body text" LINESP="16"/>
             <para PARENT="Body text" LINESP="16"/>
-            <ITEXT CH="It has a temperature range from -40ºC to 125ºC with a typical accuracy of ±2ºC. It outputs 10mV/ºC with a 500 mV offset to allow for negative temperatures. To use the chip you read the analogue value and convert this to a voltage between 0 and 5V. The program carries out the necessary calculations to convert the voltage to temperatures in ºCelsius."/>
+            <ITEXT CH="It has a temperature range from -40"/>
+            <ITEXT FEATURES="inherit superscript" CH="o"/>
+            <ITEXT CH="C to 125"/>
+            <ITEXT FEATURES="inherit superscript" CH="o"/>
+            <ITEXT CH="C with a typical accuracy of ±2oC. It outputs 10mV/"/>
+            <ITEXT FEATURES="inherit superscript" CH="o"/>
+            <ITEXT CH="C with a 500 mV offset to allow for negative temperatures. To use the chip you read the analogue value and convert this to a voltage between 0 and 5V. The program carries out the necessary calculations to convert the voltage to temperatures in degrees Celsius."/>
+            <para PARENT="Body text"/>
             <para PARENT="Body text" LINESP="16"/>
-            <para PARENT="Body text" LINESP="16"/>
-            <ITEXT CH="As it stands the temperature calculated could be up to 2 degrees out in either direction because of the TMP36. There could also be small errors in the analogue to digital converter in the Arduino’s chip. If you need a more accurate reading you can calibrate the system. Connect the TMP 36 with longer wires. Place the sensor in the corner of a polythene bag, about 8-10 cm long, and close the top tightly with an elastic band to keep out the water. Place several ice cubes in a glass with some water and immerse the sensor in the water and melting ice. Wait several minutes until the glass, sensor, water and ice settle to the temperature of melting ice. Run the program again. If the results show a consistent 0ºC, you are in luck. If not, change the value of ‘adjust’ in the script until it gives an average voltage of 0.5 volts while the sensor is in the melting ice and water. "/>
-            <para PARENT="Body text" LINESP="16"/>
+            <ITEXT CH="As it stands the temperature calculated could be up to 2 degrees out in either direction because of the TMP36. There could also be small errors in the analogue to digital converter in the Arduino’s chip. If you need a more accurate reading you can calibrate the system. Connect the TMP 36 with longer wires. Place the sensor in the corner of a polythene bag, about 8-10 cm long, and close the top tightly with an elastic band to keep out the water. Place several ice cubes in a glass with some water and immerse the sensor in the water and melting ice. Wait several minutes until the glass, sensor, water and ice settle to the temperature of melting ice. Run the program again. If the results show a consistent 0"/>
+            <ITEXT FEATURES="inherit superscript" CH="o"/>
+            <ITEXT CH="C, you are in luck. If not, change the value of ‘adjust’ in the script until it gives an average voltage of 0.5 volts while the sensor is in the melting ice and water. "/>
+            <para PARENT="Body text"/>
             <para PARENT="Body text" LINESP="16"/>
             <ITEXT FONT="Monaco Regular" FONTSIZE="9" CH=" #!/usr/bin/env python"/>
             <para PARENT="Code" LINESP="16"/>
@@ -291,7 +299,9 @@
             <ITEXT CH="To watch the temperature change you can pinch the sensor with warm fingers or add warm water to the glass if the sensor is still in the plastic bag. "/>
             <para PARENT="Body text" LINESP="16"/>
             <para PARENT="Body text" LINESP="16"/>
-            <ITEXT CH="The analogue to digital converter has 10 bit accuracy so each bit will represent 5v /1024 = 0.00488 volts. This is equivalent to just under ½ ºC so the set up can only read accurately to the nearest whole degree C."/>
+            <ITEXT CH="The analogue to digital converter has 10 bit accuracy so each bit will represent 5V /1024 = 0.00488 Volts. This is equivalent to just under ½ "/>
+            <ITEXT FEATURES="inherit superscript" CH="o"/>
+            <ITEXT CH="C so the set up can only read accurately to the nearest whole degree C."/>
             <para PARENT="Body text" LINESP="16"/>
             <para PARENT="Body text" LINESP="16"/>
             <ITEXT CH="Things to try"/>
@@ -312,7 +322,11 @@
             <ITEXT CH="c) Combine the first two ideas so that you can set the individual brightness of all the LEDs with 4 buttons. Use the other button to stop the program. "/>
             <para PARENT="Body text" LINESP="16"/>
             <para PARENT="Body text" LINESP="16"/>
-            <ITEXT CH="Change the temperature program so that it changes output from ºC to ºF while a button is held down. (Move the output to the LCD if you have one.)"/>
+            <ITEXT CH="Change the temperature program so that it changes output from "/>
+            <ITEXT FEATURES="inherit superscript" CH="o"/>
+            <ITEXT CH="C to "/>
+            <ITEXT FEATURES="inherit superscript" CH="o"/>
+            <ITEXT CH="F while a button is held down. (Move the output to the LCD if you have one.)"/>
             <para PARENT="Body text" LINESP="16"/>
             <para PARENT="Body text" LINESP="16"/>
             <ITEXT CH="Modify the LCD counting program and control the two sets of numbers with the buttons rather than a counted loop. Use one button pair to increase/decrease the left hand number on the display and another pair to control the right number independently. Stop the program if either number reaches 0."/>
@@ -404,7 +418,7 @@
             <trail/>
             <PageItemAttributes/>
         </PAGEOBJECT>
-        <PAGEOBJECT OwnPage="2" PTYPE="2" XPOS="411" YPOS="2325" WIDTH="255.935433070867" HEIGHT="230" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="CineonLog M " EPROF="" IRENDER="0" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 255.935 0 255.935 0 255.935 0 255.935 0 255.935 230 255.935 230 255.935 230 255.935 230 0 230 0 230 0 230 0 230 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 255.935 0 255.935 0 255.935 0 255.935 0 255.935 230 255.935 230 255.935 230 255.935 230 0 230 0 230 0 230 0 230 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="6" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+        <PAGEOBJECT OwnPage="2" PTYPE="2" XPOS="421" YPOS="2361" WIDTH="232" HEIGHT="226" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="0.1248" LOCALSCY="0.1248" LOCALX="33.4443771451645" LOCALY="6.80395719766103" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="temp_image.png" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="0" EMBEDDED="0" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 232 0 232 0 232 0 232 0 232 226 232 226 232 226 232 226 0 226 0 226 0 226 0 226 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 232 0 232 0 232 0 232 0 232 226 232 226 232 226 232 226 0 226 0 226 0 226 0 226 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="6" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
             <trail/>
             <PageItemAttributes/>
         </PAGEOBJECT>
