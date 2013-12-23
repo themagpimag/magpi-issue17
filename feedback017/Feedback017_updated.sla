@@ -130,7 +130,7 @@
             <para ALIGN="3"/>
             <ITEXT FONT="FreeSans Regular" FONTSIZE="12" FCOLOR="White" CH="Thank you, thank you."/>
             <para ALIGN="3"/>
-            <para ALIGN="3"/>
+            <para ALIGN="2"/>
             <ITEXT FONT="FreeSans Regular" FONTSIZE="12" FCOLOR="White" CH="Scott"/>
             <para ALIGN="2"/>
             <para ALIGN="3"/>
@@ -138,14 +138,18 @@
             <para ALIGN="3"/>
             <para ALIGN="3"/>
             <para ALIGN="3"/>
+            <para ALIGN="3"/>
+            <para ALIGN="3"/>
             <ITEXT FONTSIZE="12" FCOLOR="Cyan" FSHADE="100" CH="My first article in @TheMagP1 as guest writer (page 12, issue 16) YAY! Pi #MoreThanHappy"/>
             <para ALIGN="3"/>
+            <para ALIGN="2"/>
             <ITEXT FONTSIZE="12" FCOLOR="Cyan" FSHADE="100" CH="Jorge Rance"/>
             <para ALIGN="2"/>
             <para ALIGN="3"/>
             <para ALIGN="3"/>
             <ITEXT FONT="FreeSans Regular" FONTSIZE="12" FCOLOR="White" FSHADE="100" CH="I got my issues and binder a while ago (from the Kickstarter campaign) and they are so cool...thank you."/>
             <para ALIGN="3"/>
+            <para ALIGN="2"/>
             <ITEXT FONT="FreeSans Regular" FONTSIZE="12" FCOLOR="White" FSHADE="100" CH="Randy"/>
             <para ALIGN="2"/>
             <para ALIGN="2"/>
@@ -158,33 +162,35 @@
             <para ALIGN="3"/>
             <ITEXT FONT="FreeSans Regular" FONTSIZE="12" FCOLOR="Cyan" FSHADE="100" CH=" "/>
             <para ALIGN="3"/>
-            <ITEXT FONT="FreeSans Regular" FONTSIZE="12" FCOLOR="Cyan" FSHADE="100" CH="When friends tell me they are getting a Raspberry Pi, the two things I recommend for them are Berryboot and the MagPi!"/>
+            <ITEXT FONT="FreeSans Regular" FONTSIZE="12" FCOLOR="Cyan" FSHADE="100" CH="When friends tell me they are getting a Raspberry Pi, the two things I recommend for them are Berryboot and The MagPi! Thanks"/>
+            <ITEXT CH="."/>
             <para ALIGN="3"/>
-            <ITEXT FONT="FreeSans Regular" FONTSIZE="12" FCOLOR="Cyan" FSHADE="100" CH="Thanks,"/>
             <para ALIGN="2"/>
             <ITEXT FONT="FreeSans Regular" FONTSIZE="12" FCOLOR="Cyan" FSHADE="100" CH="Doug Smith"/>
             <para ALIGN="2"/>
             <para ALIGN="2"/>
             <para ALIGN="3"/>
+            <para ALIGN="3"/>
+            <para ALIGN="3"/>
+            <para ALIGN="3"/>
             <ITEXT FONTSIZE="12" FCOLOR="White" FSHADE="100" CH="Dear Editor,"/>
             <para ALIGN="3"/>
             <para ALIGN="3"/>
-            <ITEXT FONTSIZE="12" FCOLOR="White" FSHADE="100" CH="I love playing with my Raspberry Pi (setting up webcams, learning Python, etc.) and really enjoy doing the projects featured in The MagPi. I am interested in learning electronics and would like to incorporate this into future projects with my Raspberry Pi, but I don't know where to start. Could you, or anyone, give me any advice on where to begin please?"/>
+            <ITEXT FONTSIZE="12" FCOLOR="White" FSHADE="100" CH="I love playing with my Raspberry Pi (setting up webcams, learning Python, etc.) and really enjoy doing the projects featured in The MagPi. I am interested in learning electronics and would like to incorporate this into future projects with my Raspberry Pi, but I don't know where to start. Could you, or anyone, give me any advice on where to begin please? Many thanks"/>
+            <ITEXT CH="."/>
             <para ALIGN="3"/>
-            <ITEXT FONTSIZE="12" FCOLOR="White" FSHADE="100" CH="Many thanks,"/>
-            <para ALIGN="2"/>
+            <para ALIGN="3"/>
             <ITEXT FONTSIZE="12" FCOLOR="White" FSHADE="100" CH="Claire"/>
             <para ALIGN="2"/>
             <para ALIGN="3"/>
-            <ITEXT FONTSIZE="12" FCOLOR="White" FSHADE="100" CH="[Ed.: Can you help Claire out? If so please contact us with your suggestions and ideas. Thank you.]"/>
+            <ITEXT FONTSIZE="12" FCOLOR="White" FSHADE="100" CH="["/>
+            <ITEXT FONT="FreeSans Oblique" FONTSIZE="12" FCOLOR="White" FSHADE="100" CH="Ed.: Can you help Claire out? If so please contact us with your suggestions and ideas. Thank you."/>
+            <ITEXT FONTSIZE="12" FCOLOR="White" FSHADE="100" CH="]"/>
             <para ALIGN="3"/>
             <para ALIGN="3"/>
-            <para ALIGN="2"/>
-            <para ALIGN="2"/>
-            <para ALIGN="2"/>
-            <para ALIGN="3"/>
-            <ITEXT FONT="FreeSans Bold" FONTSIZE="14" FEATURES="inherit shadowed" FCOLOR="Cyan" FSHADE="100" CH="What do you think of The MagPi and the Raspberry Pi? Have you got a project idea and do not know where to start? Why not write to The MagPi and tell us what is on your mind?"/>
-            <para ALIGN="3"/>
+            <para/>
+            <ITEXT FONT="FreeSans Regular" FONTSIZE="13" FEATURES="inherit shadowed" FCOLOR="Cyan" FSHADE="100" CH="What do you think of The MagPi and the Raspberry Pi? Have you got a project idea and do not know where to start? Why not write to The MagPi and tell us your idea?"/>
+            <trail ALIGN="3" LINESP="14"/>
             <PageItemAttributes/>
         </PAGEOBJECT>
     </DOCUMENT>
